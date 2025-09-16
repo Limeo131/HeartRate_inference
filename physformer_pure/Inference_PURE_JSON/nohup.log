@@ -1,0 +1,900 @@
+evaluation~ forward!
+
+
+[INFO] Processing 01-01 (1/59)
+/mnt/vdb/pure/01-01.json
+[INFO] 01-01 | Clip 0 | Pred: 65.00 | GT: 80.00
+[INFO] 01-01 | Clip 1 | Pred: 66.00 | GT: 80.00
+[INFO] 01-01 | Clip 2 | Pred: 66.00 | GT: 74.00
+[INFO] 01-01 | Clip 3 | Pred: 68.00 | GT: 68.00
+[INFO] 01-01 | Clip 4 | Pred: 65.00 | GT: 68.00
+[INFO] 01-01 | Clip 5 | Pred: 66.00 | GT: 67.00
+[INFO] 01-01 | Clip 6 | Pred: 66.00 | GT: 65.00
+[INFO] 01-01 | Clip 7 | Pred: 68.00 | GT: 66.00
+[INFO] 01-01 | Clip 8 | Pred: 68.00 | GT: 67.00
+[INFO] 01-01 | Clip 9 | Pred: 72.00 | GT: 68.00
+[INFO] 01-01 | Clip 10 | Pred: 72.00 | GT: 68.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 01-02 (2/59)
+/mnt/vdb/pure/01-02.json
+[INFO] 01-02 | Clip 0 | Pred: 72.00 | GT: 84.00
+[INFO] 01-02 | Clip 1 | Pred: 72.00 | GT: 84.00
+[INFO] 01-02 | Clip 2 | Pred: 80.00 | GT: 84.00
+[INFO] 01-02 | Clip 3 | Pred: 72.00 | GT: 81.00
+[INFO] 01-02 | Clip 4 | Pred: 75.00 | GT: 81.00
+[INFO] 01-02 | Clip 5 | Pred: 68.00 | GT: 79.00
+[INFO] 01-02 | Clip 6 | Pred: 71.00 | GT: 71.00
+[INFO] 01-02 | Clip 7 | Pred: 76.00 | GT: 72.00
+[INFO] 01-02 | Clip 8 | Pred: 76.00 | GT: 72.00
+[INFO] 01-02 | Clip 9 | Pred: 80.00 | GT: 74.00
+[INFO] 01-02 | Clip 10 | Pred: 68.00 | GT: 75.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 01-03 (3/59)
+/mnt/vdb/pure/01-03.json
+[INFO] 01-03 | Clip 0 | Pred: 83.00 | GT: 76.00
+[INFO] 01-03 | Clip 1 | Pred: 77.00 | GT: 79.00
+[INFO] 01-03 | Clip 2 | Pred: 75.00 | GT: 80.00
+[INFO] 01-03 | Clip 3 | Pred: 75.00 | GT: 77.00
+[INFO] 01-03 | Clip 4 | Pred: 78.00 | GT: 74.00
+[INFO] 01-03 | Clip 5 | Pred: 73.00 | GT: 76.00
+[INFO] 01-03 | Clip 6 | Pred: 78.00 | GT: 75.00
+[INFO] 01-03 | Clip 7 | Pred: 77.00 | GT: 76.00
+[INFO] 01-03 | Clip 8 | Pred: 75.00 | GT: 77.00
+[INFO] 01-03 | Clip 9 | Pred: 78.00 | GT: 76.00
+[INFO] 01-03 | Clip 10 | Pred: 76.00 | GT: 76.00
+[INFO] 01-03 | Clip 11 | Pred: 78.00 | GT: 76.00
+[INFO] 01-03 | Clip 12 | Pred: 77.00 | GT: 77.00
+[INFO] 01-03 | Clip 13 | Pred: 81.00 | GT: 78.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 01-04 (4/59)
+/mnt/vdb/pure/01-04.json
+[INFO] 01-04 | Clip 0 | Pred: 77.00 | GT: 76.00
+[INFO] 01-04 | Clip 1 | Pred: 73.00 | GT: 77.00
+[INFO] 01-04 | Clip 2 | Pred: 77.00 | GT: 77.00
+[INFO] 01-04 | Clip 3 | Pred: 75.00 | GT: 76.00
+[INFO] 01-04 | Clip 4 | Pred: 71.00 | GT: 74.00
+[INFO] 01-04 | Clip 5 | Pred: 72.00 | GT: 74.00
+[INFO] 01-04 | Clip 6 | Pred: 77.00 | GT: 73.00
+[INFO] 01-04 | Clip 7 | Pred: 74.00 | GT: 75.00
+[INFO] 01-04 | Clip 8 | Pred: 73.00 | GT: 74.00
+[INFO] 01-04 | Clip 9 | Pred: 70.00 | GT: 75.00
+[INFO] 01-04 | Clip 10 | Pred: 76.00 | GT: 75.00
+[INFO] 01-04 | Clip 11 | Pred: 71.00 | GT: 74.00
+[INFO] 01-04 | Clip 12 | Pred: 78.00 | GT: 73.00
+[INFO] 01-04 | Clip 13 | Pred: 80.00 | GT: 74.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 01-05 (5/59)
+/mnt/vdb/pure/01-05.json
+[INFO] 01-05 | Clip 0 | Pred: 75.00 | GT: 80.00
+[INFO] 01-05 | Clip 1 | Pred: 72.00 | GT: 78.00
+[INFO] 01-05 | Clip 2 | Pred: 68.00 | GT: 73.00
+[INFO] 01-05 | Clip 3 | Pred: 69.00 | GT: 72.00
+[INFO] 01-05 | Clip 4 | Pred: 67.00 | GT: 72.00
+[INFO] 01-05 | Clip 5 | Pred: 70.00 | GT: 72.00
+[INFO] 01-05 | Clip 6 | Pred: 69.00 | GT: 70.00
+[INFO] 01-05 | Clip 7 | Pred: 71.00 | GT: 70.00
+[INFO] 01-05 | Clip 8 | Pred: 72.00 | GT: 70.00
+[INFO] 01-05 | Clip 9 | Pred: 69.00 | GT: 71.00
+[INFO] 01-05 | Clip 10 | Pred: 73.00 | GT: 71.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 01-06 (6/59)
+/mnt/vdb/pure/01-06.json
+[INFO] 01-06 | Clip 0 | Pred: 76.00 | GT: 80.00
+[INFO] 01-06 | Clip 1 | Pred: 71.00 | GT: 80.00
+[INFO] 01-06 | Clip 2 | Pred: 68.00 | GT: 73.00
+[INFO] 01-06 | Clip 3 | Pred: 71.00 | GT: 68.00
+[INFO] 01-06 | Clip 4 | Pred: 71.00 | GT: 70.00
+[INFO] 01-06 | Clip 5 | Pred: 69.00 | GT: 70.00
+[INFO] 01-06 | Clip 6 | Pred: 70.00 | GT: 70.00
+[INFO] 01-06 | Clip 7 | Pred: 71.00 | GT: 70.00
+[INFO] 01-06 | Clip 8 | Pred: 67.00 | GT: 70.00
+[INFO] 01-06 | Clip 9 | Pred: 72.00 | GT: 71.00
+[INFO] 01-06 | Clip 10 | Pred: 71.00 | GT: 73.00
+[INFO] 01-06 | Clip 11 | Pred: 70.00 | GT: 72.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 02-01 (7/59)
+/mnt/vdb/pure/02-01.json
+[INFO] 02-01 | Clip 0 | Pred: 79.00 | GT: 80.00
+[INFO] 02-01 | Clip 1 | Pred: 72.00 | GT: 81.00
+[INFO] 02-01 | Clip 2 | Pred: 72.00 | GT: 75.00
+[INFO] 02-01 | Clip 3 | Pred: 70.00 | GT: 72.00
+[INFO] 02-01 | Clip 4 | Pred: 66.00 | GT: 72.00
+[INFO] 02-01 | Clip 5 | Pred: 72.00 | GT: 71.00
+[INFO] 02-01 | Clip 6 | Pred: 67.00 | GT: 72.00
+[INFO] 02-01 | Clip 7 | Pred: 70.00 | GT: 72.00
+[INFO] 02-01 | Clip 8 | Pred: 69.00 | GT: 70.00
+[INFO] 02-01 | Clip 9 | Pred: 69.00 | GT: 69.00
+[INFO] 02-01 | Clip 10 | Pred: 73.00 | GT: 69.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 02-02 (8/59)
+/mnt/vdb/pure/02-02.json
+[INFO] 02-02 | Clip 0 | Pred: 77.00 | GT: 80.00
+[INFO] 02-02 | Clip 1 | Pred: 89.00 | GT: 82.00
+[INFO] 02-02 | Clip 2 | Pred: 79.00 | GT: 89.00
+[INFO] 02-02 | Clip 3 | Pred: 79.00 | GT: 88.00
+[INFO] 02-02 | Clip 4 | Pred: 70.00 | GT: 81.00
+[INFO] 02-02 | Clip 5 | Pred: 80.00 | GT: 80.00
+[INFO] 02-02 | Clip 6 | Pred: 77.00 | GT: 79.00
+[INFO] 02-02 | Clip 7 | Pred: 75.00 | GT: 78.00
+[INFO] 02-02 | Clip 8 | Pred: 75.00 | GT: 80.00
+[INFO] 02-02 | Clip 9 | Pred: 74.00 | GT: 80.00
+[INFO] 02-02 | Clip 10 | Pred: 73.00 | GT: 82.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 02-03 (9/59)
+/mnt/vdb/pure/02-03.json
+[INFO] 02-03 | Clip 0 | Pred: 77.00 | GT: 77.00
+[INFO] 02-03 | Clip 1 | Pred: 79.00 | GT: 75.00
+[INFO] 02-03 | Clip 2 | Pred: 71.00 | GT: 76.00
+[INFO] 02-03 | Clip 3 | Pred: 68.00 | GT: 74.00
+[INFO] 02-03 | Clip 4 | Pred: 76.00 | GT: 72.00
+[INFO] 02-03 | Clip 5 | Pred: 70.00 | GT: 75.00
+[INFO] 02-03 | Clip 6 | Pred: 80.00 | GT: 73.00
+[INFO] 02-03 | Clip 7 | Pred: 71.00 | GT: 72.00
+[INFO] 02-03 | Clip 8 | Pred: 68.00 | GT: 73.00
+[INFO] 02-03 | Clip 9 | Pred: 71.00 | GT: 72.00
+[INFO] 02-03 | Clip 10 | Pred: 70.00 | GT: 75.00
+[INFO] 02-03 | Clip 11 | Pred: 72.00 | GT: 74.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 02-04 (10/59)
+/mnt/vdb/pure/02-04.json
+[INFO] 02-04 | Clip 0 | Pred: 77.00 | GT: 79.00
+[INFO] 02-04 | Clip 1 | Pred: 67.00 | GT: 79.00
+[INFO] 02-04 | Clip 2 | Pred: 74.00 | GT: 76.00
+[INFO] 02-04 | Clip 3 | Pred: 63.00 | GT: 72.00
+[INFO] 02-04 | Clip 4 | Pred: 71.00 | GT: 69.00
+[INFO] 02-04 | Clip 5 | Pred: 70.00 | GT: 69.00
+[INFO] 02-04 | Clip 6 | Pred: 74.00 | GT: 69.00
+[INFO] 02-04 | Clip 7 | Pred: 68.00 | GT: 69.00
+[INFO] 02-04 | Clip 8 | Pred: 73.00 | GT: 69.00
+[INFO] 02-04 | Clip 9 | Pred: 77.00 | GT: 68.00
+[INFO] 02-04 | Clip 10 | Pred: 77.00 | GT: 70.00
+[INFO] 02-04 | Clip 11 | Pred: 75.00 | GT: 74.00
+[INFO] 02-04 | Clip 12 | Pred: 75.00 | GT: 76.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 02-05 (11/59)
+/mnt/vdb/pure/02-05.json
+[INFO] 02-05 | Clip 0 | Pred: 74.00 | GT: 78.00
+[INFO] 02-05 | Clip 1 | Pred: 77.00 | GT: 76.00
+[INFO] 02-05 | Clip 2 | Pred: 71.00 | GT: 73.00
+[INFO] 02-05 | Clip 3 | Pred: 75.00 | GT: 73.00
+[INFO] 02-05 | Clip 4 | Pred: 69.00 | GT: 71.00
+[INFO] 02-05 | Clip 5 | Pred: 75.00 | GT: 73.00
+[INFO] 02-05 | Clip 6 | Pred: 73.00 | GT: 76.00
+[INFO] 02-05 | Clip 7 | Pred: 74.00 | GT: 75.00
+[INFO] 02-05 | Clip 8 | Pred: 76.00 | GT: 75.00
+[INFO] 02-05 | Clip 9 | Pred: 77.00 | GT: 75.00
+[INFO] 02-05 | Clip 10 | Pred: 74.00 | GT: 77.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 02-06 (12/59)
+/mnt/vdb/pure/02-06.json
+[INFO] 02-06 | Clip 0 | Pred: 71.00 | GT: 78.00
+[INFO] 02-06 | Clip 1 | Pred: 72.00 | GT: 72.00
+[INFO] 02-06 | Clip 2 | Pred: 73.00 | GT: 72.00
+[INFO] 02-06 | Clip 3 | Pred: 71.00 | GT: 75.00
+[INFO] 02-06 | Clip 4 | Pred: 66.00 | GT: 75.00
+[INFO] 02-06 | Clip 5 | Pred: 68.00 | GT: 74.00
+[INFO] 02-06 | Clip 6 | Pred: 68.00 | GT: 71.00
+[INFO] 02-06 | Clip 7 | Pred: 69.00 | GT: 70.00
+[INFO] 02-06 | Clip 8 | Pred: 74.00 | GT: 70.00
+[INFO] 02-06 | Clip 9 | Pred: 70.00 | GT: 71.00
+[INFO] 02-06 | Clip 10 | Pred: 75.00 | GT: 71.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 03-01 (13/59)
+/mnt/vdb/pure/03-01.json
+[INFO] 03-01 | Clip 0 | Pred: 40.00 | GT: 55.00
+[INFO] 03-01 | Clip 1 | Pred: 40.00 | GT: 55.00
+[INFO] 03-01 | Clip 2 | Pred: 40.00 | GT: 53.00
+[INFO] 03-01 | Clip 3 | Pred: 40.00 | GT: 53.00
+[INFO] 03-01 | Clip 4 | Pred: 40.00 | GT: 52.00
+[INFO] 03-01 | Clip 5 | Pred: 40.00 | GT: 52.00
+[INFO] 03-01 | Clip 6 | Pred: 103.00 | GT: 52.00
+[INFO] 03-01 | Clip 7 | Pred: 117.00 | GT: 52.00
+[INFO] 03-01 | Clip 8 | Pred: 104.00 | GT: 54.00
+[INFO] 03-01 | Clip 9 | Pred: 105.00 | GT: 54.00
+[INFO] 03-01 | Clip 10 | Pred: 102.00 | GT: 55.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 03-02 (14/59)
+/mnt/vdb/pure/03-02.json
+[INFO] 03-02 | Clip 0 | Pred: 112.00 | GT: 57.00
+[INFO] 03-02 | Clip 1 | Pred: 57.00 | GT: 58.00
+[INFO] 03-02 | Clip 2 | Pred: 55.00 | GT: 58.00
+[INFO] 03-02 | Clip 3 | Pred: 55.00 | GT: 57.00
+[INFO] 03-02 | Clip 4 | Pred: 60.00 | GT: 57.00
+[INFO] 03-02 | Clip 5 | Pred: 110.00 | GT: 58.00
+[INFO] 03-02 | Clip 6 | Pred: 55.00 | GT: 58.00
+[INFO] 03-02 | Clip 7 | Pred: 99.00 | GT: 56.00
+[INFO] 03-02 | Clip 8 | Pred: 113.00 | GT: 55.00
+[INFO] 03-02 | Clip 9 | Pred: 54.00 | GT: 54.00
+[INFO] 03-02 | Clip 10 | Pred: 57.00 | GT: 56.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 03-03 (15/59)
+/mnt/vdb/pure/03-03.json
+[INFO] 03-03 | Clip 0 | Pred: 107.00 | GT: 61.00
+[INFO] 03-03 | Clip 1 | Pred: 86.00 | GT: 61.00
+[INFO] 03-03 | Clip 2 | Pred: 86.00 | GT: 61.00
+[INFO] 03-03 | Clip 3 | Pred: 64.00 | GT: 60.00
+[INFO] 03-03 | Clip 4 | Pred: 64.00 | GT: 59.00
+[INFO] 03-03 | Clip 5 | Pred: 98.00 | GT: 59.00
+[INFO] 03-03 | Clip 6 | Pred: 86.00 | GT: 59.00
+[INFO] 03-03 | Clip 7 | Pred: 77.00 | GT: 59.00
+[INFO] 03-03 | Clip 8 | Pred: 68.00 | GT: 57.00
+[INFO] 03-03 | Clip 9 | Pred: 74.00 | GT: 58.00
+[INFO] 03-03 | Clip 10 | Pred: 76.00 | GT: 58.00
+[INFO] 03-03 | Clip 11 | Pred: 86.00 | GT: 56.00
+[INFO] 03-03 | Clip 12 | Pred: 88.00 | GT: 55.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 03-04 (16/59)
+/mnt/vdb/pure/03-04.json
+[INFO] 03-04 | Clip 0 | Pred: 89.00 | GT: 57.00
+[INFO] 03-04 | Clip 1 | Pred: 82.00 | GT: 57.00
+[INFO] 03-04 | Clip 2 | Pred: 86.00 | GT: 57.00
+[INFO] 03-04 | Clip 3 | Pred: 73.00 | GT: 56.00
+[INFO] 03-04 | Clip 4 | Pred: 75.00 | GT: 56.00
+[INFO] 03-04 | Clip 5 | Pred: 80.00 | GT: 57.00
+[INFO] 03-04 | Clip 6 | Pred: 70.00 | GT: 57.00
+[INFO] 03-04 | Clip 7 | Pred: 75.00 | GT: 57.00
+[INFO] 03-04 | Clip 8 | Pred: 79.00 | GT: 57.00
+[INFO] 03-04 | Clip 9 | Pred: 73.00 | GT: 57.00
+[INFO] 03-04 | Clip 10 | Pred: 89.00 | GT: 57.00
+[INFO] 03-04 | Clip 11 | Pred: 83.00 | GT: 57.00
+[INFO] 03-04 | Clip 12 | Pred: 40.00 | GT: 57.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 03-05 (17/59)
+/mnt/vdb/pure/03-05.json
+[INFO] 03-05 | Clip 0 | Pred: 52.00 | GT: 59.00
+[INFO] 03-05 | Clip 1 | Pred: 105.00 | GT: 58.00
+[INFO] 03-05 | Clip 2 | Pred: 114.00 | GT: 55.00
+[INFO] 03-05 | Clip 3 | Pred: 114.00 | GT: 55.00
+[INFO] 03-05 | Clip 4 | Pred: 115.00 | GT: 56.00
+[INFO] 03-05 | Clip 5 | Pred: 50.00 | GT: 57.00
+[INFO] 03-05 | Clip 6 | Pred: 113.00 | GT: 56.00
+[INFO] 03-05 | Clip 7 | Pred: 101.00 | GT: 56.00
+[INFO] 03-05 | Clip 8 | Pred: 53.00 | GT: 55.00
+[INFO] 03-05 | Clip 9 | Pred: 57.00 | GT: 57.00
+[INFO] 03-05 | Clip 10 | Pred: 108.00 | GT: 58.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 03-06 (18/59)
+/mnt/vdb/pure/03-06.json
+[INFO] 03-06 | Clip 0 | Pred: 92.00 | GT: 61.00
+[INFO] 03-06 | Clip 1 | Pred: 103.00 | GT: 62.00
+[INFO] 03-06 | Clip 2 | Pred: 100.00 | GT: 62.00
+[INFO] 03-06 | Clip 3 | Pred: 114.00 | GT: 62.00
+[INFO] 03-06 | Clip 4 | Pred: 62.00 | GT: 61.00
+[INFO] 03-06 | Clip 5 | Pred: 63.00 | GT: 62.00
+[INFO] 03-06 | Clip 6 | Pred: 94.00 | GT: 61.00
+[INFO] 03-06 | Clip 7 | Pred: 99.00 | GT: 58.00
+[INFO] 03-06 | Clip 8 | Pred: 73.00 | GT: 55.00
+[INFO] 03-06 | Clip 9 | Pred: 55.00 | GT: 56.00
+[INFO] 03-06 | Clip 10 | Pred: 110.00 | GT: 57.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 04-01 (19/59)
+/mnt/vdb/pure/04-01.json
+[INFO] 04-01 | Clip 0 | Pred: 90.00 | GT: 64.00
+[INFO] 04-01 | Clip 1 | Pred: 40.00 | GT: 62.00
+[INFO] 04-01 | Clip 2 | Pred: 40.00 | GT: 61.00
+[INFO] 04-01 | Clip 3 | Pred: 59.00 | GT: 58.00
+[INFO] 04-01 | Clip 4 | Pred: 80.00 | GT: 58.00
+[INFO] 04-01 | Clip 5 | Pred: 62.00 | GT: 58.00
+[INFO] 04-01 | Clip 6 | Pred: 60.00 | GT: 58.00
+[INFO] 04-01 | Clip 7 | Pred: 64.00 | GT: 58.00
+[INFO] 04-01 | Clip 8 | Pred: 68.00 | GT: 59.00
+[INFO] 04-01 | Clip 9 | Pred: 69.00 | GT: 63.00
+[INFO] 04-01 | Clip 10 | Pred: 101.00 | GT: 63.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 04-02 (20/59)
+/mnt/vdb/pure/04-02.json
+[INFO] 04-02 | Clip 0 | Pred: 64.00 | GT: 70.00
+[INFO] 04-02 | Clip 1 | Pred: 91.00 | GT: 67.00
+[INFO] 04-02 | Clip 2 | Pred: 66.00 | GT: 66.00
+[INFO] 04-02 | Clip 3 | Pred: 64.00 | GT: 66.00
+[INFO] 04-02 | Clip 4 | Pred: 64.00 | GT: 65.00
+[INFO] 04-02 | Clip 5 | Pred: 64.00 | GT: 64.00
+[INFO] 04-02 | Clip 6 | Pred: 65.00 | GT: 64.00
+[INFO] 04-02 | Clip 7 | Pred: 82.00 | GT: 65.00
+[INFO] 04-02 | Clip 8 | Pred: 60.00 | GT: 65.00
+[INFO] 04-02 | Clip 9 | Pred: 64.00 | GT: 66.00
+[INFO] 04-02 | Clip 10 | Pred: 83.00 | GT: 70.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 04-03 (21/59)
+/mnt/vdb/pure/04-03.json
+[INFO] 04-03 | Clip 0 | Pred: 66.00 | GT: 67.00
+[INFO] 04-03 | Clip 1 | Pred: 64.00 | GT: 67.00
+[INFO] 04-03 | Clip 2 | Pred: 90.00 | GT: 69.00
+[INFO] 04-03 | Clip 3 | Pred: 73.00 | GT: 70.00
+[INFO] 04-03 | Clip 4 | Pred: 72.00 | GT: 71.00
+[INFO] 04-03 | Clip 5 | Pred: 67.00 | GT: 71.00
+[INFO] 04-03 | Clip 6 | Pred: 66.00 | GT: 69.00
+[INFO] 04-03 | Clip 7 | Pred: 74.00 | GT: 67.00
+[INFO] 04-03 | Clip 8 | Pred: 70.00 | GT: 67.00
+[INFO] 04-03 | Clip 9 | Pred: 66.00 | GT: 67.00
+[INFO] 04-03 | Clip 10 | Pred: 68.00 | GT: 67.00
+[INFO] 04-03 | Clip 11 | Pred: 71.00 | GT: 68.00
+[INFO] 04-03 | Clip 12 | Pred: 70.00 | GT: 69.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 04-04 (22/59)
+/mnt/vdb/pure/04-04.json
+[INFO] 04-04 | Clip 0 | Pred: 61.00 | GT: 64.00
+[INFO] 04-04 | Clip 1 | Pred: 83.00 | GT: 63.00
+[INFO] 04-04 | Clip 2 | Pred: 86.00 | GT: 63.00
+[INFO] 04-04 | Clip 3 | Pred: 79.00 | GT: 64.00
+[INFO] 04-04 | Clip 4 | Pred: 74.00 | GT: 66.00
+[INFO] 04-04 | Clip 5 | Pred: 71.00 | GT: 68.00
+[INFO] 04-04 | Clip 6 | Pred: 77.00 | GT: 70.00
+[INFO] 04-04 | Clip 7 | Pred: 73.00 | GT: 74.00
+[INFO] 04-04 | Clip 8 | Pred: 72.00 | GT: 74.00
+[INFO] 04-04 | Clip 9 | Pred: 68.00 | GT: 75.00
+[INFO] 04-04 | Clip 10 | Pred: 74.00 | GT: 74.00
+[INFO] 04-04 | Clip 11 | Pred: 81.00 | GT: 75.00
+[INFO] 04-04 | Clip 12 | Pred: 71.00 | GT: 75.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 04-05 (23/59)
+/mnt/vdb/pure/04-05.json
+[INFO] 04-05 | Clip 0 | Pred: 56.00 | GT: 61.00
+[INFO] 04-05 | Clip 1 | Pred: 90.00 | GT: 62.00
+[INFO] 04-05 | Clip 2 | Pred: 60.00 | GT: 62.00
+[INFO] 04-05 | Clip 3 | Pred: 65.00 | GT: 63.00
+[INFO] 04-05 | Clip 4 | Pred: 69.00 | GT: 64.00
+[INFO] 04-05 | Clip 5 | Pred: 71.00 | GT: 66.00
+[INFO] 04-05 | Clip 6 | Pred: 64.00 | GT: 69.00
+[INFO] 04-05 | Clip 7 | Pred: 64.00 | GT: 70.00
+[INFO] 04-05 | Clip 8 | Pred: 66.00 | GT: 69.00
+[INFO] 04-05 | Clip 9 | Pred: 66.00 | GT: 67.00
+[INFO] 04-05 | Clip 10 | Pred: 71.00 | GT: 66.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 04-06 (24/59)
+/mnt/vdb/pure/04-06.json
+[INFO] 04-06 | Clip 0 | Pred: 57.00 | GT: 71.00
+[INFO] 04-06 | Clip 1 | Pred: 65.00 | GT: 69.00
+[INFO] 04-06 | Clip 2 | Pred: 65.00 | GT: 62.00
+[INFO] 04-06 | Clip 3 | Pred: 62.00 | GT: 59.00
+[INFO] 04-06 | Clip 4 | Pred: 66.00 | GT: 60.00
+[INFO] 04-06 | Clip 5 | Pred: 112.00 | GT: 61.00
+[INFO] 04-06 | Clip 6 | Pred: 68.00 | GT: 62.00
+[INFO] 04-06 | Clip 7 | Pred: 68.00 | GT: 65.00
+[INFO] 04-06 | Clip 8 | Pred: 66.00 | GT: 66.00
+[INFO] 04-06 | Clip 9 | Pred: 63.00 | GT: 67.00
+[INFO] 04-06 | Clip 10 | Pred: 65.00 | GT: 67.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 05-01 (25/59)
+/mnt/vdb/pure/05-01.json
+[INFO] 05-01 | Clip 0 | Pred: 40.00 | GT: 51.00
+[INFO] 05-01 | Clip 1 | Pred: 40.00 | GT: 51.00
+[INFO] 05-01 | Clip 2 | Pred: 83.00 | GT: 47.00
+[INFO] 05-01 | Clip 3 | Pred: 92.00 | GT: 47.00
+[INFO] 05-01 | Clip 4 | Pred: 93.00 | GT: 47.00
+[INFO] 05-01 | Clip 5 | Pred: 74.00 | GT: 45.00
+[INFO] 05-01 | Clip 6 | Pred: 101.00 | GT: 44.00
+[INFO] 05-01 | Clip 7 | Pred: 98.00 | GT: 44.00
+[INFO] 05-01 | Clip 8 | Pred: 94.00 | GT: 44.00
+[INFO] 05-01 | Clip 9 | Pred: 91.00 | GT: 44.00
+[INFO] 05-01 | Clip 10 | Pred: 103.00 | GT: 44.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 05-02 (26/59)
+/mnt/vdb/pure/05-02.json
+[INFO] 05-02 | Clip 0 | Pred: 95.00 | GT: 50.00
+[INFO] 05-02 | Clip 1 | Pred: 77.00 | GT: 50.00
+[INFO] 05-02 | Clip 2 | Pred: 96.00 | GT: 51.00
+[INFO] 05-02 | Clip 3 | Pred: 75.00 | GT: 51.00
+[INFO] 05-02 | Clip 4 | Pred: 91.00 | GT: 51.00
+[INFO] 05-02 | Clip 5 | Pred: 101.00 | GT: 51.00
+[INFO] 05-02 | Clip 6 | Pred: 98.00 | GT: 51.00
+[INFO] 05-02 | Clip 7 | Pred: 93.00 | GT: 51.00
+[INFO] 05-02 | Clip 8 | Pred: 74.00 | GT: 51.00
+[INFO] 05-02 | Clip 9 | Pred: 113.00 | GT: 52.00
+[INFO] 05-02 | Clip 10 | Pred: 76.00 | GT: 52.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 05-03 (27/59)
+/mnt/vdb/pure/05-03.json
+[INFO] 05-03 | Clip 0 | Pred: 40.00 | GT: 51.00
+[INFO] 05-03 | Clip 1 | Pred: 64.00 | GT: 51.00
+[INFO] 05-03 | Clip 2 | Pred: 77.00 | GT: 51.00
+[INFO] 05-03 | Clip 3 | Pred: 70.00 | GT: 51.00
+[INFO] 05-03 | Clip 4 | Pred: 85.00 | GT: 51.00
+[INFO] 05-03 | Clip 5 | Pred: 53.00 | GT: 52.00
+[INFO] 05-03 | Clip 6 | Pred: 82.00 | GT: 52.00
+[INFO] 05-03 | Clip 7 | Pred: 78.00 | GT: 51.00
+[INFO] 05-03 | Clip 8 | Pred: 57.00 | GT: 51.00
+[INFO] 05-03 | Clip 9 | Pred: 105.00 | GT: 49.00
+[INFO] 05-03 | Clip 10 | Pred: 86.00 | GT: 50.00
+[INFO] 05-03 | Clip 11 | Pred: 50.00 | GT: 50.00
+[INFO] 05-03 | Clip 12 | Pred: 78.00 | GT: 50.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 05-04 (28/59)
+/mnt/vdb/pure/05-04.json
+[INFO] 05-04 | Clip 0 | Pred: 40.00 | GT: 54.00
+[INFO] 05-04 | Clip 1 | Pred: 59.00 | GT: 55.00
+[INFO] 05-04 | Clip 2 | Pred: 59.00 | GT: 55.00
+[INFO] 05-04 | Clip 3 | Pred: 55.00 | GT: 54.00
+[INFO] 05-04 | Clip 4 | Pred: 40.00 | GT: 54.00
+[INFO] 05-04 | Clip 5 | Pred: 76.00 | GT: 53.00
+[INFO] 05-04 | Clip 6 | Pred: 54.00 | GT: 53.00
+[INFO] 05-04 | Clip 7 | Pred: 69.00 | GT: 53.00
+[INFO] 05-04 | Clip 8 | Pred: 67.00 | GT: 53.00
+[INFO] 05-04 | Clip 9 | Pred: 67.00 | GT: 53.00
+[INFO] 05-04 | Clip 10 | Pred: 50.00 | GT: 53.00
+[INFO] 05-04 | Clip 11 | Pred: 75.00 | GT: 53.00
+[INFO] 05-04 | Clip 12 | Pred: 74.00 | GT: 54.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 05-05 (29/59)
+/mnt/vdb/pure/05-05.json
+[INFO] 05-05 | Clip 0 | Pred: 109.00 | GT: 52.00
+[INFO] 05-05 | Clip 1 | Pred: 74.00 | GT: 51.00
+[INFO] 05-05 | Clip 2 | Pred: 98.00 | GT: 51.00
+[INFO] 05-05 | Clip 3 | Pred: 89.00 | GT: 50.00
+[INFO] 05-05 | Clip 4 | Pred: 83.00 | GT: 48.00
+[INFO] 05-05 | Clip 5 | Pred: 95.00 | GT: 48.00
+[INFO] 05-05 | Clip 6 | Pred: 40.00 | GT: 47.00
+[INFO] 05-05 | Clip 7 | Pred: 94.00 | GT: 47.00
+[INFO] 05-05 | Clip 8 | Pred: 106.00 | GT: 47.00
+[INFO] 05-05 | Clip 9 | Pred: 102.00 | GT: 48.00
+[INFO] 05-05 | Clip 10 | Pred: 96.00 | GT: 49.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 05-06 (30/59)
+/mnt/vdb/pure/05-06.json
+[INFO] 05-06 | Clip 0 | Pred: 81.00 | GT: 53.00
+[INFO] 05-06 | Clip 1 | Pred: 78.00 | GT: 55.00
+[INFO] 05-06 | Clip 2 | Pred: 106.00 | GT: 55.00
+[INFO] 05-06 | Clip 3 | Pred: 76.00 | GT: 55.00
+[INFO] 05-06 | Clip 4 | Pred: 93.00 | GT: 55.00
+[INFO] 05-06 | Clip 5 | Pred: 72.00 | GT: 55.00
+[INFO] 05-06 | Clip 6 | Pred: 86.00 | GT: 56.00
+[INFO] 05-06 | Clip 7 | Pred: 90.00 | GT: 56.00
+[INFO] 05-06 | Clip 8 | Pred: 83.00 | GT: 56.00
+[INFO] 05-06 | Clip 9 | Pred: 95.00 | GT: 56.00
+[INFO] 05-06 | Clip 10 | Pred: 92.00 | GT: 56.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 06-01 (31/59)
+/mnt/vdb/pure/06-01.json
+[INFO] 06-01 | Clip 0 | Pred: 69.00 | GT: 67.00
+[INFO] 06-01 | Clip 1 | Pred: 68.00 | GT: 70.00
+[INFO] 06-01 | Clip 2 | Pred: 65.00 | GT: 68.00
+[INFO] 06-01 | Clip 3 | Pred: 64.00 | GT: 64.00
+[INFO] 06-01 | Clip 4 | Pred: 63.00 | GT: 63.00
+[INFO] 06-01 | Clip 5 | Pred: 66.00 | GT: 63.00
+[INFO] 06-01 | Clip 6 | Pred: 61.00 | GT: 62.00
+[INFO] 06-01 | Clip 7 | Pred: 64.00 | GT: 62.00
+[INFO] 06-01 | Clip 8 | Pred: 65.00 | GT: 64.00
+[INFO] 06-01 | Clip 9 | Pred: 67.00 | GT: 64.00
+[INFO] 06-01 | Clip 10 | Pred: 68.00 | GT: 66.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 06-03 (32/59)
+/mnt/vdb/pure/06-03.json
+[INFO] 06-03 | Clip 0 | Pred: 79.00 | GT: 76.00
+[INFO] 06-03 | Clip 1 | Pred: 76.00 | GT: 76.00
+[INFO] 06-03 | Clip 2 | Pred: 65.00 | GT: 79.00
+[INFO] 06-03 | Clip 3 | Pred: 75.00 | GT: 79.00
+[INFO] 06-03 | Clip 4 | Pred: 92.00 | GT: 78.00
+[INFO] 06-03 | Clip 5 | Pred: 70.00 | GT: 75.00
+[INFO] 06-03 | Clip 6 | Pred: 69.00 | GT: 73.00
+[INFO] 06-03 | Clip 7 | Pred: 65.00 | GT: 73.00
+[INFO] 06-03 | Clip 8 | Pred: 68.00 | GT: 73.00
+[INFO] 06-03 | Clip 9 | Pred: 68.00 | GT: 72.00
+[INFO] 06-03 | Clip 10 | Pred: 70.00 | GT: 73.00
+[INFO] 06-03 | Clip 11 | Pred: 67.00 | GT: 73.00
+[INFO] 06-03 | Clip 12 | Pred: 67.00 | GT: 73.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 06-04 (33/59)
+/mnt/vdb/pure/06-04.json
+[INFO] 06-04 | Clip 0 | Pred: 70.00 | GT: 70.00
+[INFO] 06-04 | Clip 1 | Pred: 76.00 | GT: 71.00
+[INFO] 06-04 | Clip 2 | Pred: 82.00 | GT: 71.00
+[INFO] 06-04 | Clip 3 | Pred: 79.00 | GT: 70.00
+[INFO] 06-04 | Clip 4 | Pred: 76.00 | GT: 72.00
+[INFO] 06-04 | Clip 5 | Pred: 74.00 | GT: 73.00
+[INFO] 06-04 | Clip 6 | Pred: 75.00 | GT: 73.00
+[INFO] 06-04 | Clip 7 | Pred: 70.00 | GT: 73.00
+[INFO] 06-04 | Clip 8 | Pred: 77.00 | GT: 73.00
+[INFO] 06-04 | Clip 9 | Pred: 72.00 | GT: 73.00
+[INFO] 06-04 | Clip 10 | Pred: 75.00 | GT: 72.00
+[INFO] 06-04 | Clip 11 | Pred: 69.00 | GT: 73.00
+[INFO] 06-04 | Clip 12 | Pred: 78.00 | GT: 74.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 06-05 (34/59)
+/mnt/vdb/pure/06-05.json
+[INFO] 06-05 | Clip 0 | Pred: 66.00 | GT: 72.00
+[INFO] 06-05 | Clip 1 | Pred: 75.00 | GT: 72.00
+[INFO] 06-05 | Clip 2 | Pred: 73.00 | GT: 71.00
+[INFO] 06-05 | Clip 3 | Pred: 91.00 | GT: 72.00
+[INFO] 06-05 | Clip 4 | Pred: 67.00 | GT: 70.00
+[INFO] 06-05 | Clip 5 | Pred: 68.00 | GT: 69.00
+[INFO] 06-05 | Clip 6 | Pred: 65.00 | GT: 68.00
+[INFO] 06-05 | Clip 7 | Pred: 71.00 | GT: 68.00
+[INFO] 06-05 | Clip 8 | Pred: 66.00 | GT: 67.00
+[INFO] 06-05 | Clip 9 | Pred: 65.00 | GT: 65.00
+[INFO] 06-05 | Clip 10 | Pred: 74.00 | GT: 65.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 06-06 (35/59)
+/mnt/vdb/pure/06-06.json
+[INFO] 06-06 | Clip 0 | Pred: 68.00 | GT: 72.00
+[INFO] 06-06 | Clip 1 | Pred: 83.00 | GT: 72.00
+[INFO] 06-06 | Clip 2 | Pred: 72.00 | GT: 68.00
+[INFO] 06-06 | Clip 3 | Pred: 71.00 | GT: 67.00
+[INFO] 06-06 | Clip 4 | Pred: 70.00 | GT: 68.00
+[INFO] 06-06 | Clip 5 | Pred: 79.00 | GT: 69.00
+[INFO] 06-06 | Clip 6 | Pred: 78.00 | GT: 69.00
+[INFO] 06-06 | Clip 7 | Pred: 69.00 | GT: 68.00
+[INFO] 06-06 | Clip 8 | Pred: 86.00 | GT: 68.00
+[INFO] 06-06 | Clip 9 | Pred: 69.00 | GT: 67.00
+[INFO] 06-06 | Clip 10 | Pred: 73.00 | GT: 67.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 07-01 (36/59)
+/mnt/vdb/pure/07-01.json
+[INFO] 07-01 | Clip 0 | Pred: 122.00 | GT: 127.00
+[INFO] 07-01 | Clip 1 | Pred: 129.00 | GT: 121.00
+[INFO] 07-01 | Clip 2 | Pred: 122.00 | GT: 126.00
+[INFO] 07-01 | Clip 3 | Pred: 123.00 | GT: 122.00
+[INFO] 07-01 | Clip 4 | Pred: 125.00 | GT: 125.00
+[INFO] 07-01 | Clip 5 | Pred: 127.00 | GT: 123.00
+[INFO] 07-01 | Clip 6 | Pred: 120.00 | GT: 127.00
+[INFO] 07-01 | Clip 7 | Pred: 122.00 | GT: 127.00
+[INFO] 07-01 | Clip 8 | Pred: 129.00 | GT: 125.00
+[INFO] 07-01 | Clip 9 | Pred: 129.00 | GT: 127.00
+[INFO] 07-01 | Clip 10 | Pred: 125.00 | GT: 126.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 07-02 (37/59)
+/mnt/vdb/pure/07-02.json
+[INFO] 07-02 | Clip 0 | Pred: 118.00 | GT: 126.00
+[INFO] 07-02 | Clip 1 | Pred: 133.00 | GT: 121.00
+[INFO] 07-02 | Clip 2 | Pred: 89.00 | GT: 130.00
+[INFO] 07-02 | Clip 3 | Pred: 95.00 | GT: 134.00
+[INFO] 07-02 | Clip 4 | Pred: 97.00 | GT: 137.00
+[INFO] 07-02 | Clip 5 | Pred: 111.00 | GT: 140.00
+[INFO] 07-02 | Clip 6 | Pred: 96.00 | GT: 143.00
+[INFO] 07-02 | Clip 7 | Pred: 117.00 | GT: 144.00
+[INFO] 07-02 | Clip 8 | Pred: 88.00 | GT: 136.00
+[INFO] 07-02 | Clip 9 | Pred: 98.00 | GT: 134.00
+[INFO] 07-02 | Clip 10 | Pred: 97.00 | GT: 135.00
+[INFO] 07-02 | Clip 11 | Pred: 119.00 | GT: 135.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 07-03 (38/59)
+/mnt/vdb/pure/07-03.json
+[INFO] 07-03 | Clip 0 | Pred: 96.00 | GT: 128.00
+[INFO] 07-03 | Clip 1 | Pred: 123.00 | GT: 135.00
+[INFO] 07-03 | Clip 2 | Pred: 117.00 | GT: 133.00
+[INFO] 07-03 | Clip 3 | Pred: 124.00 | GT: 117.00
+[INFO] 07-03 | Clip 4 | Pred: 92.00 | GT: 125.00
+[INFO] 07-03 | Clip 5 | Pred: 104.00 | GT: 126.00
+[INFO] 07-03 | Clip 6 | Pred: 129.00 | GT: 126.00
+[INFO] 07-03 | Clip 7 | Pred: 120.00 | GT: 127.00
+[INFO] 07-03 | Clip 8 | Pred: 96.00 | GT: 123.00
+[INFO] 07-03 | Clip 9 | Pred: 113.00 | GT: 126.00
+[INFO] 07-03 | Clip 10 | Pred: 127.00 | GT: 126.00
+[INFO] 07-03 | Clip 11 | Pred: 108.00 | GT: 129.00
+[INFO] 07-03 | Clip 12 | Pred: 130.00 | GT: 128.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 07-04 (39/59)
+/mnt/vdb/pure/07-04.json
+[INFO] 07-04 | Clip 0 | Pred: 109.00 | GT: 138.00
+[INFO] 07-04 | Clip 1 | Pred: 120.00 | GT: 132.00
+[INFO] 07-04 | Clip 2 | Pred: 119.00 | GT: 116.00
+[INFO] 07-04 | Clip 3 | Pred: 118.00 | GT: 119.00
+[INFO] 07-04 | Clip 4 | Pred: 100.00 | GT: 123.00
+[INFO] 07-04 | Clip 5 | Pred: 116.00 | GT: 129.00
+[INFO] 07-04 | Clip 6 | Pred: 103.00 | GT: 130.00
+[INFO] 07-04 | Clip 7 | Pred: 83.00 | GT: 128.00
+[INFO] 07-04 | Clip 8 | Pred: 103.00 | GT: 128.00
+[INFO] 07-04 | Clip 9 | Pred: 121.00 | GT: 126.00
+[INFO] 07-04 | Clip 10 | Pred: 131.00 | GT: 126.00
+[INFO] 07-04 | Clip 11 | Pred: 117.00 | GT: 129.00
+[INFO] 07-04 | Clip 12 | Pred: 124.00 | GT: 120.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 07-05 (40/59)
+/mnt/vdb/pure/07-05.json
+[INFO] 07-05 | Clip 0 | Pred: 105.00 | GT: 145.00
+[INFO] 07-05 | Clip 1 | Pred: 103.00 | GT: 133.00
+[INFO] 07-05 | Clip 2 | Pred: 113.00 | GT: 134.00
+[INFO] 07-05 | Clip 3 | Pred: 115.00 | GT: 139.00
+[INFO] 07-05 | Clip 4 | Pred: 127.00 | GT: 133.00
+[INFO] 07-05 | Clip 5 | Pred: 115.00 | GT: 135.00
+[INFO] 07-05 | Clip 6 | Pred: 127.00 | GT: 134.00
+[INFO] 07-05 | Clip 7 | Pred: 102.00 | GT: 129.00
+[INFO] 07-05 | Clip 8 | Pred: 117.00 | GT: 132.00
+[INFO] 07-05 | Clip 9 | Pred: 115.00 | GT: 121.00
+[INFO] 07-05 | Clip 10 | Pred: 132.00 | GT: 127.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 07-06 (41/59)
+/mnt/vdb/pure/07-06.json
+[INFO] 07-06 | Clip 0 | Pred: 122.00 | GT: 129.00
+[INFO] 07-06 | Clip 1 | Pred: 95.00 | GT: 137.00
+[INFO] 07-06 | Clip 2 | Pred: 103.00 | GT: 129.00
+[INFO] 07-06 | Clip 3 | Pred: 117.00 | GT: 131.00
+[INFO] 07-06 | Clip 4 | Pred: 105.00 | GT: 132.00
+[INFO] 07-06 | Clip 5 | Pred: 113.00 | GT: 133.00
+[INFO] 07-06 | Clip 6 | Pred: 108.00 | GT: 134.00
+[INFO] 07-06 | Clip 7 | Pred: 92.00 | GT: 134.00
+[INFO] 07-06 | Clip 8 | Pred: 110.00 | GT: 133.00
+[INFO] 07-06 | Clip 9 | Pred: 123.00 | GT: 133.00
+[INFO] 07-06 | Clip 10 | Pred: 96.00 | GT: 127.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 08-01 (42/59)
+/mnt/vdb/pure/08-01.json
+[INFO] 08-01 | Clip 0 | Pred: 96.00 | GT: 54.00
+[INFO] 08-01 | Clip 1 | Pred: 91.00 | GT: 53.00
+[INFO] 08-01 | Clip 2 | Pred: 91.00 | GT: 51.00
+[INFO] 08-01 | Clip 3 | Pred: 95.00 | GT: 50.00
+[INFO] 08-01 | Clip 4 | Pred: 92.00 | GT: 49.00
+[INFO] 08-01 | Clip 5 | Pred: 92.00 | GT: 49.00
+[INFO] 08-01 | Clip 6 | Pred: 96.00 | GT: 49.00
+[INFO] 08-01 | Clip 7 | Pred: 88.00 | GT: 49.00
+[INFO] 08-01 | Clip 8 | Pred: 90.00 | GT: 49.00
+[INFO] 08-01 | Clip 9 | Pred: 90.00 | GT: 48.00
+[INFO] 08-01 | Clip 10 | Pred: 91.00 | GT: 48.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 08-02 (43/59)
+/mnt/vdb/pure/08-02.json
+[INFO] 08-02 | Clip 0 | Pred: 114.00 | GT: 53.00
+[INFO] 08-02 | Clip 1 | Pred: 107.00 | GT: 54.00
+[INFO] 08-02 | Clip 2 | Pred: 102.00 | GT: 54.00
+[INFO] 08-02 | Clip 3 | Pred: 108.00 | GT: 54.00
+[INFO] 08-02 | Clip 4 | Pred: 93.00 | GT: 54.00
+[INFO] 08-02 | Clip 5 | Pred: 91.00 | GT: 54.00
+[INFO] 08-02 | Clip 6 | Pred: 119.00 | GT: 58.00
+[INFO] 08-02 | Clip 7 | Pred: 106.00 | GT: 58.00
+[INFO] 08-02 | Clip 8 | Pred: 120.00 | GT: 62.00
+[INFO] 08-02 | Clip 9 | Pred: 113.00 | GT: 64.00
+[INFO] 08-02 | Clip 10 | Pred: 108.00 | GT: 66.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 08-03 (44/59)
+/mnt/vdb/pure/08-03.json
+[INFO] 08-03 | Clip 0 | Pred: 54.00 | GT: 56.00
+[INFO] 08-03 | Clip 1 | Pred: 101.00 | GT: 56.00
+[INFO] 08-03 | Clip 2 | Pred: 96.00 | GT: 56.00
+[INFO] 08-03 | Clip 3 | Pred: 100.00 | GT: 55.00
+[INFO] 08-03 | Clip 4 | Pred: 95.00 | GT: 51.00
+[INFO] 08-03 | Clip 5 | Pred: 95.00 | GT: 51.00
+[INFO] 08-03 | Clip 6 | Pred: 96.00 | GT: 50.00
+[INFO] 08-03 | Clip 7 | Pred: 96.00 | GT: 50.00
+[INFO] 08-03 | Clip 8 | Pred: 95.00 | GT: 50.00
+[INFO] 08-03 | Clip 9 | Pred: 102.00 | GT: 49.00
+[INFO] 08-03 | Clip 10 | Pred: 99.00 | GT: 49.00
+[INFO] 08-03 | Clip 11 | Pred: 104.00 | GT: 49.00
+[INFO] 08-03 | Clip 12 | Pred: 98.00 | GT: 49.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 08-04 (45/59)
+/mnt/vdb/pure/08-04.json
+[INFO] 08-04 | Clip 0 | Pred: 106.00 | GT: 62.00
+[INFO] 08-04 | Clip 1 | Pred: 99.00 | GT: 62.00
+[INFO] 08-04 | Clip 2 | Pred: 100.00 | GT: 62.00
+[INFO] 08-04 | Clip 3 | Pred: 102.00 | GT: 57.00
+[INFO] 08-04 | Clip 4 | Pred: 100.00 | GT: 56.00
+[INFO] 08-04 | Clip 5 | Pred: 94.00 | GT: 53.00
+[INFO] 08-04 | Clip 6 | Pred: 98.00 | GT: 53.00
+[INFO] 08-04 | Clip 7 | Pred: 100.00 | GT: 53.00
+[INFO] 08-04 | Clip 8 | Pred: 100.00 | GT: 53.00
+[INFO] 08-04 | Clip 9 | Pred: 100.00 | GT: 52.00
+[INFO] 08-04 | Clip 10 | Pred: 100.00 | GT: 52.00
+[INFO] 08-04 | Clip 11 | Pred: 97.00 | GT: 53.00
+[INFO] 08-04 | Clip 12 | Pred: 102.00 | GT: 53.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 08-05 (46/59)
+/mnt/vdb/pure/08-05.json
+[INFO] 08-05 | Clip 0 | Pred: 104.00 | GT: 55.00
+[INFO] 08-05 | Clip 1 | Pred: 99.00 | GT: 55.00
+[INFO] 08-05 | Clip 2 | Pred: 99.00 | GT: 55.00
+[INFO] 08-05 | Clip 3 | Pred: 101.00 | GT: 53.00
+[INFO] 08-05 | Clip 4 | Pred: 98.00 | GT: 52.00
+[INFO] 08-05 | Clip 5 | Pred: 108.00 | GT: 52.00
+[INFO] 08-05 | Clip 6 | Pred: 98.00 | GT: 52.00
+[INFO] 08-05 | Clip 7 | Pred: 103.00 | GT: 52.00
+[INFO] 08-05 | Clip 8 | Pred: 97.00 | GT: 51.00
+[INFO] 08-05 | Clip 9 | Pred: 99.00 | GT: 51.00
+[INFO] 08-05 | Clip 10 | Pred: 101.00 | GT: 52.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 08-06 (47/59)
+/mnt/vdb/pure/08-06.json
+[INFO] 08-06 | Clip 0 | Pred: 111.00 | GT: 61.00
+[INFO] 08-06 | Clip 1 | Pred: 94.00 | GT: 60.00
+[INFO] 08-06 | Clip 2 | Pred: 102.00 | GT: 58.00
+[INFO] 08-06 | Clip 3 | Pred: 109.00 | GT: 56.00
+[INFO] 08-06 | Clip 4 | Pred: 108.00 | GT: 54.00
+[INFO] 08-06 | Clip 5 | Pred: 95.00 | GT: 54.00
+[INFO] 08-06 | Clip 6 | Pred: 110.00 | GT: 53.00
+[INFO] 08-06 | Clip 7 | Pred: 106.00 | GT: 53.00
+[INFO] 08-06 | Clip 8 | Pred: 104.00 | GT: 53.00
+[INFO] 08-06 | Clip 9 | Pred: 107.00 | GT: 53.00
+[INFO] 08-06 | Clip 10 | Pred: 102.00 | GT: 53.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 09-01 (48/59)
+/mnt/vdb/pure/09-01.json
+[INFO] 09-01 | Clip 0 | Pred: 92.00 | GT: 46.00
+[INFO] 09-01 | Clip 1 | Pred: 95.00 | GT: 47.00
+[INFO] 09-01 | Clip 2 | Pred: 92.00 | GT: 47.00
+[INFO] 09-01 | Clip 3 | Pred: 91.00 | GT: 47.00
+[INFO] 09-01 | Clip 4 | Pred: 88.00 | GT: 47.00
+[INFO] 09-01 | Clip 5 | Pred: 92.00 | GT: 47.00
+[INFO] 09-01 | Clip 6 | Pred: 93.00 | GT: 47.00
+[INFO] 09-01 | Clip 7 | Pred: 91.00 | GT: 46.00
+[INFO] 09-01 | Clip 8 | Pred: 93.00 | GT: 46.00
+[INFO] 09-01 | Clip 9 | Pred: 92.00 | GT: 46.00
+[INFO] 09-01 | Clip 10 | Pred: 87.00 | GT: 46.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 09-02 (49/59)
+/mnt/vdb/pure/09-02.json
+[INFO] 09-02 | Clip 0 | Pred: 101.00 | GT: 45.00
+[INFO] 09-02 | Clip 1 | Pred: 101.00 | GT: 45.00
+[INFO] 09-02 | Clip 2 | Pred: 86.00 | GT: 47.00
+[INFO] 09-02 | Clip 3 | Pred: 106.00 | GT: 48.00
+[INFO] 09-02 | Clip 4 | Pred: 89.00 | GT: 49.00
+[INFO] 09-02 | Clip 5 | Pred: 102.00 | GT: 50.00
+[INFO] 09-02 | Clip 6 | Pred: 92.00 | GT: 51.00
+[INFO] 09-02 | Clip 7 | Pred: 85.00 | GT: 52.00
+[INFO] 09-02 | Clip 8 | Pred: 79.00 | GT: 54.00
+[INFO] 09-02 | Clip 9 | Pred: 90.00 | GT: 55.00
+[INFO] 09-02 | Clip 10 | Pred: 102.00 | GT: 55.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 09-03 (50/59)
+/mnt/vdb/pure/09-03.json
+[INFO] 09-03 | Clip 0 | Pred: 101.00 | GT: 51.00
+[INFO] 09-03 | Clip 1 | Pred: 98.00 | GT: 51.00
+[INFO] 09-03 | Clip 2 | Pred: 95.00 | GT: 49.00
+[INFO] 09-03 | Clip 3 | Pred: 95.00 | GT: 48.00
+[INFO] 09-03 | Clip 4 | Pred: 95.00 | GT: 48.00
+[INFO] 09-03 | Clip 5 | Pred: 100.00 | GT: 48.00
+[INFO] 09-03 | Clip 6 | Pred: 94.00 | GT: 48.00
+[INFO] 09-03 | Clip 7 | Pred: 95.00 | GT: 48.00
+[INFO] 09-03 | Clip 8 | Pred: 96.00 | GT: 48.00
+[INFO] 09-03 | Clip 9 | Pred: 93.00 | GT: 49.00
+[INFO] 09-03 | Clip 10 | Pred: 94.00 | GT: 47.00
+[INFO] 09-03 | Clip 11 | Pred: 96.00 | GT: 47.00
+[INFO] 09-03 | Clip 12 | Pred: 98.00 | GT: 47.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 09-04 (51/59)
+/mnt/vdb/pure/09-04.json
+[INFO] 09-04 | Clip 0 | Pred: 102.00 | GT: 51.00
+[INFO] 09-04 | Clip 1 | Pred: 98.00 | GT: 52.00
+[INFO] 09-04 | Clip 2 | Pred: 88.00 | GT: 51.00
+[INFO] 09-04 | Clip 3 | Pred: 95.00 | GT: 49.00
+[INFO] 09-04 | Clip 4 | Pred: 89.00 | GT: 48.00
+[INFO] 09-04 | Clip 5 | Pred: 88.00 | GT: 46.00
+[INFO] 09-04 | Clip 6 | Pred: 92.00 | GT: 45.00
+[INFO] 09-04 | Clip 7 | Pred: 97.00 | GT: 45.00
+[INFO] 09-04 | Clip 8 | Pred: 98.00 | GT: 46.00
+[INFO] 09-04 | Clip 9 | Pred: 83.00 | GT: 47.00
+[INFO] 09-04 | Clip 10 | Pred: 93.00 | GT: 47.00
+[INFO] 09-04 | Clip 11 | Pred: 94.00 | GT: 48.00
+[INFO] 09-04 | Clip 12 | Pred: 94.00 | GT: 48.00
+[INFO] 09-04 | Clip 13 | Pred: 100.00 | GT: 48.00
+[INFO] 09-04 | Clip 14 | Pred: 94.00 | GT: 48.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 09-05 (52/59)
+/mnt/vdb/pure/09-05.json
+[INFO] 09-05 | Clip 0 | Pred: 89.00 | GT: 46.00
+[INFO] 09-05 | Clip 1 | Pred: 97.00 | GT: 45.00
+[INFO] 09-05 | Clip 2 | Pred: 92.00 | GT: 45.00
+[INFO] 09-05 | Clip 3 | Pred: 100.00 | GT: 46.00
+[INFO] 09-05 | Clip 4 | Pred: 94.00 | GT: 46.00
+[INFO] 09-05 | Clip 5 | Pred: 94.00 | GT: 47.00
+[INFO] 09-05 | Clip 6 | Pred: 95.00 | GT: 47.00
+[INFO] 09-05 | Clip 7 | Pred: 91.00 | GT: 48.00
+[INFO] 09-05 | Clip 8 | Pred: 99.00 | GT: 48.00
+[INFO] 09-05 | Clip 9 | Pred: 93.00 | GT: 48.00
+[INFO] 09-05 | Clip 10 | Pred: 98.00 | GT: 48.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 09-06 (53/59)
+/mnt/vdb/pure/09-06.json
+[INFO] 09-06 | Clip 0 | Pred: 96.00 | GT: 48.00
+[INFO] 09-06 | Clip 1 | Pred: 89.00 | GT: 47.00
+[INFO] 09-06 | Clip 2 | Pred: 96.00 | GT: 47.00
+[INFO] 09-06 | Clip 3 | Pred: 95.00 | GT: 47.00
+[INFO] 09-06 | Clip 4 | Pred: 94.00 | GT: 47.00
+[INFO] 09-06 | Clip 5 | Pred: 100.00 | GT: 48.00
+[INFO] 09-06 | Clip 6 | Pred: 94.00 | GT: 49.00
+[INFO] 09-06 | Clip 7 | Pred: 90.00 | GT: 49.00
+[INFO] 09-06 | Clip 8 | Pred: 99.00 | GT: 50.00
+[INFO] 09-06 | Clip 9 | Pred: 93.00 | GT: 49.00
+[INFO] 09-06 | Clip 10 | Pred: 93.00 | GT: 49.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 10-01 (54/59)
+/mnt/vdb/pure/10-01.json
+[INFO] 10-01 | Clip 0 | Pred: 93.00 | GT: 86.00
+[INFO] 10-01 | Clip 1 | Pred: 83.00 | GT: 90.00
+[INFO] 10-01 | Clip 2 | Pred: 82.00 | GT: 86.00
+[INFO] 10-01 | Clip 3 | Pred: 83.00 | GT: 84.00
+[INFO] 10-01 | Clip 4 | Pred: 85.00 | GT: 83.00
+[INFO] 10-01 | Clip 5 | Pred: 86.00 | GT: 82.00
+[INFO] 10-01 | Clip 6 | Pred: 86.00 | GT: 86.00
+[INFO] 10-01 | Clip 7 | Pred: 80.00 | GT: 85.00
+[INFO] 10-01 | Clip 8 | Pred: 78.00 | GT: 84.00
+[INFO] 10-01 | Clip 9 | Pred: 77.00 | GT: 81.00
+[INFO] 10-01 | Clip 10 | Pred: 80.00 | GT: 78.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 10-02 (55/59)
+/mnt/vdb/pure/10-02.json
+[INFO] 10-02 | Clip 0 | Pred: 100.00 | GT: 92.00
+[INFO] 10-02 | Clip 1 | Pred: 102.00 | GT: 97.00
+[INFO] 10-02 | Clip 2 | Pred: 106.00 | GT: 104.00
+[INFO] 10-02 | Clip 3 | Pred: 100.00 | GT: 105.00
+[INFO] 10-02 | Clip 4 | Pred: 101.00 | GT: 100.00
+[INFO] 10-02 | Clip 5 | Pred: 103.00 | GT: 102.00
+[INFO] 10-02 | Clip 6 | Pred: 102.00 | GT: 103.00
+[INFO] 10-02 | Clip 7 | Pred: 81.00 | GT: 98.00
+[INFO] 10-02 | Clip 8 | Pred: 97.00 | GT: 102.00
+[INFO] 10-02 | Clip 9 | Pred: 88.00 | GT: 100.00
+[INFO] 10-02 | Clip 10 | Pred: 91.00 | GT: 98.00
+[INFO] Saved clip HR results to /home/siming/physformer_pure/Inference_PURE_JSON/clip_HR_results.csv
+
+[INFO] Processing 10-03 (56/59)
+Traceback (most recent call last):
+  File "/home/siming/physformer_pure/run_physformer_pure_clip.py", line 272, in <module>
+    train_test()
+  File "/home/siming/physformer_pure/run_physformer_pure_clip.py", line 230, in train_test
+    for i, sample in enumerate(dataloader_test):
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 631, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1346, in _next_data
+    return self._process_data(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1372, in _process_data
+    data.reraise()
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/_utils.py", line 722, in reraise
+    raise exception
+FileNotFoundError: Caught FileNotFoundError in DataLoader worker process 0.
+Original Traceback (most recent call last):
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/utils/data/_utils/worker.py", line 308, in _worker_loop
+    data = fetcher.fetch(index)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/utils/data/_utils/fetch.py", line 51, in fetch
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/anaconda3/lib/python3.11/site-packages/torch/utils/data/_utils/fetch.py", line 51, in <listcomp>
+    data = [self.dataset[idx] for idx in possibly_batched_index]
+            ~~~~~~~~~~~~^^^^^
+  File "/home/siming/physformer_pure/loadtemporal_data_test_clip.py", line 93, in __getitem__
+    raise FileNotFoundError(f"Missing image: {img_path}")
+FileNotFoundError: Missing image: /mnt/vdb/pure/Image1392723244303784000.png
+

@@ -1,0 +1,274 @@
+
+[INFO] Processing 07-05
+[INFO] 07-05 | Clip 0 | Pred: 133.00 | GT: 145.00
+[INFO] 07-05 | Clip 1 | Pred: 137.00 | GT: 133.00
+[INFO] 07-05 | Clip 2 | Pred: 137.00 | GT: 134.00
+[INFO] 07-05 | Clip 3 | Pred: 135.00 | GT: 139.00
+[INFO] 07-05 | Clip 4 | Pred: 136.00 | GT: 133.00
+[INFO] 07-05 | Clip 5 | Pred: 133.00 | GT: 135.00
+[INFO] 07-05 | Clip 6 | Pred: 129.00 | GT: 134.00
+[INFO] 07-05 | Clip 7 | Pred: 132.00 | GT: 129.00
+[INFO] 07-05 | Clip 8 | Pred: 119.00 | GT: 132.00
+[INFO] 07-05 | Clip 9 | Pred: 128.00 | GT: 121.00
+[INFO] 07-05 | Clip 10 | Pred: 130.00 | GT: 127.00
+
+[INFO] Processing 07-06
+[INFO] 07-06 | Clip 0 | Pred: 134.00 | GT: 129.00
+[INFO] 07-06 | Clip 1 | Pred: 129.00 | GT: 137.00
+[INFO] 07-06 | Clip 2 | Pred: 131.00 | GT: 129.00
+[INFO] 07-06 | Clip 3 | Pred: 132.00 | GT: 131.00
+[INFO] 07-06 | Clip 4 | Pred: 133.00 | GT: 132.00
+[INFO] 07-06 | Clip 5 | Pred: 132.00 | GT: 133.00
+[INFO] 07-06 | Clip 6 | Pred: 132.00 | GT: 134.00
+[INFO] 07-06 | Clip 7 | Pred: 131.00 | GT: 134.00
+[INFO] 07-06 | Clip 8 | Pred: 129.00 | GT: 133.00
+[INFO] 07-06 | Clip 9 | Pred: 127.00 | GT: 133.00
+[INFO] 07-06 | Clip 10 | Pred: 131.00 | GT: 127.00
+
+[INFO] Processing 08-01
+[INFO] 08-01 | Clip 0 | Pred: 48.00 | GT: 54.00
+[INFO] 08-01 | Clip 1 | Pred: 46.00 | GT: 53.00
+[INFO] 08-01 | Clip 2 | Pred: 47.00 | GT: 51.00
+[INFO] 08-01 | Clip 3 | Pred: 48.00 | GT: 50.00
+[INFO] 08-01 | Clip 4 | Pred: 46.00 | GT: 49.00
+[INFO] 08-01 | Clip 5 | Pred: 46.00 | GT: 49.00
+[INFO] 08-01 | Clip 6 | Pred: 52.00 | GT: 49.00
+[INFO] 08-01 | Clip 7 | Pred: 89.00 | GT: 49.00
+[INFO] 08-01 | Clip 8 | Pred: 45.00 | GT: 49.00
+[INFO] 08-01 | Clip 9 | Pred: 44.00 | GT: 48.00
+[INFO] 08-01 | Clip 10 | Pred: 92.00 | GT: 48.00
+
+[INFO] Processing 08-02
+[INFO] 08-02 | Clip 0 | Pred: 59.00 | GT: 53.00
+[INFO] 08-02 | Clip 1 | Pred: 60.00 | GT: 54.00
+[INFO] 08-02 | Clip 2 | Pred: 61.00 | GT: 54.00
+[INFO] 08-02 | Clip 3 | Pred: 57.00 | GT: 54.00
+[INFO] 08-02 | Clip 4 | Pred: 58.00 | GT: 54.00
+[INFO] 08-02 | Clip 5 | Pred: 65.00 | GT: 54.00
+[INFO] 08-02 | Clip 6 | Pred: 61.00 | GT: 58.00
+[INFO] 08-02 | Clip 7 | Pred: 59.00 | GT: 58.00
+[INFO] 08-02 | Clip 8 | Pred: 61.00 | GT: 62.00
+[INFO] 08-02 | Clip 9 | Pred: 64.00 | GT: 64.00
+[INFO] 08-02 | Clip 10 | Pred: 56.00 | GT: 66.00
+
+[INFO] Processing 08-03
+[INFO] 08-03 | Clip 0 | Pred: 51.00 | GT: 56.00
+[INFO] 08-03 | Clip 1 | Pred: 52.00 | GT: 56.00
+[INFO] 08-03 | Clip 2 | Pred: 49.00 | GT: 56.00
+[INFO] 08-03 | Clip 3 | Pred: 50.00 | GT: 55.00
+[INFO] 08-03 | Clip 4 | Pred: 48.00 | GT: 51.00
+[INFO] 08-03 | Clip 5 | Pred: 49.00 | GT: 51.00
+[INFO] 08-03 | Clip 6 | Pred: 47.00 | GT: 50.00
+[INFO] 08-03 | Clip 7 | Pred: 47.00 | GT: 50.00
+[INFO] 08-03 | Clip 8 | Pred: 47.00 | GT: 50.00
+[INFO] 08-03 | Clip 9 | Pred: 51.00 | GT: 49.00
+[INFO] 08-03 | Clip 10 | Pred: 50.00 | GT: 49.00
+[INFO] 08-03 | Clip 11 | Pred: 51.00 | GT: 49.00
+[INFO] 08-03 | Clip 12 | Pred: 49.00 | GT: 49.00
+
+[INFO] Processing 08-04
+[INFO] 08-04 | Clip 0 | Pred: 53.00 | GT: 62.00
+[INFO] 08-04 | Clip 1 | Pred: 49.00 | GT: 62.00
+[INFO] 08-04 | Clip 2 | Pred: 49.00 | GT: 62.00
+[INFO] 08-04 | Clip 3 | Pred: 51.00 | GT: 57.00
+[INFO] 08-04 | Clip 4 | Pred: 50.00 | GT: 56.00
+[INFO] 08-04 | Clip 5 | Pred: 49.00 | GT: 53.00
+[INFO] 08-04 | Clip 6 | Pred: 50.00 | GT: 53.00
+[INFO] 08-04 | Clip 7 | Pred: 50.00 | GT: 53.00
+[INFO] 08-04 | Clip 8 | Pred: 49.00 | GT: 53.00
+[INFO] 08-04 | Clip 9 | Pred: 51.00 | GT: 52.00
+[INFO] 08-04 | Clip 10 | Pred: 49.00 | GT: 52.00
+[INFO] 08-04 | Clip 11 | Pred: 50.00 | GT: 53.00
+[INFO] 08-04 | Clip 12 | Pred: 52.00 | GT: 53.00
+
+[INFO] Processing 08-05
+[INFO] 08-05 | Clip 0 | Pred: 70.00 | GT: 55.00
+[INFO] 08-05 | Clip 1 | Pred: 50.00 | GT: 55.00
+[INFO] 08-05 | Clip 2 | Pred: 49.00 | GT: 55.00
+[INFO] 08-05 | Clip 3 | Pred: 47.00 | GT: 53.00
+[INFO] 08-05 | Clip 4 | Pred: 57.00 | GT: 52.00
+[INFO] 08-05 | Clip 5 | Pred: 52.00 | GT: 52.00
+[INFO] 08-05 | Clip 6 | Pred: 51.00 | GT: 52.00
+[INFO] 08-05 | Clip 7 | Pred: 49.00 | GT: 52.00
+[INFO] 08-05 | Clip 8 | Pred: 68.00 | GT: 51.00
+[INFO] 08-05 | Clip 9 | Pred: 52.00 | GT: 51.00
+[INFO] 08-05 | Clip 10 | Pred: 51.00 | GT: 52.00
+
+[INFO] Processing 08-06
+[INFO] 08-06 | Clip 0 | Pred: 58.00 | GT: 61.00
+[INFO] 08-06 | Clip 1 | Pred: 54.00 | GT: 60.00
+[INFO] 08-06 | Clip 2 | Pred: 55.00 | GT: 58.00
+[INFO] 08-06 | Clip 3 | Pred: 57.00 | GT: 56.00
+[INFO] 08-06 | Clip 4 | Pred: 58.00 | GT: 54.00
+[INFO] 08-06 | Clip 5 | Pred: 56.00 | GT: 54.00
+[INFO] 08-06 | Clip 6 | Pred: 55.00 | GT: 53.00
+[INFO] 08-06 | Clip 7 | Pred: 52.00 | GT: 53.00
+[INFO] 08-06 | Clip 8 | Pred: 51.00 | GT: 53.00
+[INFO] 08-06 | Clip 9 | Pred: 56.00 | GT: 53.00
+[INFO] 08-06 | Clip 10 | Pred: 54.00 | GT: 53.00
+
+[INFO] Processing 09-01
+[INFO] 09-01 | Clip 0 | Pred: 45.00 | GT: 46.00
+[INFO] 09-01 | Clip 1 | Pred: 47.00 | GT: 47.00
+[INFO] 09-01 | Clip 2 | Pred: 47.00 | GT: 47.00
+[INFO] 09-01 | Clip 3 | Pred: 45.00 | GT: 47.00
+[INFO] 09-01 | Clip 4 | Pred: 87.00 | GT: 47.00
+[INFO] 09-01 | Clip 5 | Pred: 48.00 | GT: 47.00
+[INFO] 09-01 | Clip 6 | Pred: 47.00 | GT: 47.00
+[INFO] 09-01 | Clip 7 | Pred: 47.00 | GT: 46.00
+[INFO] 09-01 | Clip 8 | Pred: 47.00 | GT: 46.00
+[INFO] 09-01 | Clip 9 | Pred: 47.00 | GT: 46.00
+[INFO] 09-01 | Clip 10 | Pred: 85.00 | GT: 46.00
+
+[INFO] Processing 09-02
+[INFO] 09-02 | Clip 0 | Pred: 51.00 | GT: 45.00
+[INFO] 09-02 | Clip 1 | Pred: 54.00 | GT: 45.00
+[INFO] 09-02 | Clip 2 | Pred: 66.00 | GT: 47.00
+[INFO] 09-02 | Clip 3 | Pred: 66.00 | GT: 48.00
+[INFO] 09-02 | Clip 4 | Pred: 63.00 | GT: 49.00
+[INFO] 09-02 | Clip 5 | Pred: 86.00 | GT: 50.00
+[INFO] 09-02 | Clip 6 | Pred: 44.00 | GT: 51.00
+[INFO] 09-02 | Clip 7 | Pred: 74.00 | GT: 52.00
+[INFO] 09-02 | Clip 8 | Pred: 51.00 | GT: 54.00
+[INFO] 09-02 | Clip 9 | Pred: 56.00 | GT: 55.00
+[INFO] 09-02 | Clip 10 | Pred: 56.00 | GT: 55.00
+
+[INFO] Processing 09-03
+[INFO] 09-03 | Clip 0 | Pred: 51.00 | GT: 51.00
+[INFO] 09-03 | Clip 1 | Pred: 48.00 | GT: 51.00
+[INFO] 09-03 | Clip 2 | Pred: 96.00 | GT: 49.00
+[INFO] 09-03 | Clip 3 | Pred: 48.00 | GT: 48.00
+[INFO] 09-03 | Clip 4 | Pred: 47.00 | GT: 48.00
+[INFO] 09-03 | Clip 5 | Pred: 50.00 | GT: 48.00
+[INFO] 09-03 | Clip 6 | Pred: 48.00 | GT: 48.00
+[INFO] 09-03 | Clip 7 | Pred: 95.00 | GT: 48.00
+[INFO] 09-03 | Clip 8 | Pred: 48.00 | GT: 48.00
+[INFO] 09-03 | Clip 9 | Pred: 46.00 | GT: 49.00
+[INFO] 09-03 | Clip 10 | Pred: 48.00 | GT: 47.00
+[INFO] 09-03 | Clip 11 | Pred: 48.00 | GT: 47.00
+[INFO] 09-03 | Clip 12 | Pred: 49.00 | GT: 47.00
+
+[INFO] Processing 09-04
+[INFO] 09-04 | Clip 0 | Pred: 50.00 | GT: 51.00
+[INFO] 09-04 | Clip 1 | Pred: 50.00 | GT: 52.00
+[INFO] 09-04 | Clip 2 | Pred: 44.00 | GT: 51.00
+[INFO] 09-04 | Clip 3 | Pred: 48.00 | GT: 49.00
+[INFO] 09-04 | Clip 4 | Pred: 89.00 | GT: 48.00
+[INFO] 09-04 | Clip 5 | Pred: 89.00 | GT: 46.00
+[INFO] 09-04 | Clip 6 | Pred: 47.00 | GT: 45.00
+[INFO] 09-04 | Clip 7 | Pred: 76.00 | GT: 45.00
+[INFO] 09-04 | Clip 8 | Pred: 49.00 | GT: 46.00
+[INFO] 09-04 | Clip 9 | Pred: 48.00 | GT: 47.00
+[INFO] 09-04 | Clip 10 | Pred: 49.00 | GT: 47.00
+[INFO] 09-04 | Clip 11 | Pred: 46.00 | GT: 48.00
+[INFO] 09-04 | Clip 12 | Pred: 48.00 | GT: 48.00
+[INFO] 09-04 | Clip 13 | Pred: 50.00 | GT: 48.00
+[INFO] 09-04 | Clip 14 | Pred: 47.00 | GT: 48.00
+
+[INFO] Processing 09-05
+[INFO] 09-05 | Clip 0 | Pred: 46.00 | GT: 46.00
+[INFO] 09-05 | Clip 1 | Pred: 55.00 | GT: 45.00
+[INFO] 09-05 | Clip 2 | Pred: 49.00 | GT: 45.00
+[INFO] 09-05 | Clip 3 | Pred: 54.00 | GT: 46.00
+[INFO] 09-05 | Clip 4 | Pred: 50.00 | GT: 46.00
+[INFO] 09-05 | Clip 5 | Pred: 48.00 | GT: 47.00
+[INFO] 09-05 | Clip 6 | Pred: 46.00 | GT: 47.00
+[INFO] 09-05 | Clip 7 | Pred: 46.00 | GT: 48.00
+[INFO] 09-05 | Clip 8 | Pred: 64.00 | GT: 48.00
+[INFO] 09-05 | Clip 9 | Pred: 71.00 | GT: 48.00
+[INFO] 09-05 | Clip 10 | Pred: 49.00 | GT: 48.00
+
+[INFO] Processing 09-06
+[INFO] 09-06 | Clip 0 | Pred: 97.00 | GT: 48.00
+[INFO] 09-06 | Clip 1 | Pred: 46.00 | GT: 47.00
+[INFO] 09-06 | Clip 2 | Pred: 44.00 | GT: 47.00
+[INFO] 09-06 | Clip 3 | Pred: 97.00 | GT: 47.00
+[INFO] 09-06 | Clip 4 | Pred: 48.00 | GT: 47.00
+[INFO] 09-06 | Clip 5 | Pred: 49.00 | GT: 48.00
+[INFO] 09-06 | Clip 6 | Pred: 95.00 | GT: 49.00
+[INFO] 09-06 | Clip 7 | Pred: 46.00 | GT: 49.00
+[INFO] 09-06 | Clip 8 | Pred: 52.00 | GT: 50.00
+[INFO] 09-06 | Clip 9 | Pred: 96.00 | GT: 49.00
+[INFO] 09-06 | Clip 10 | Pred: 51.00 | GT: 49.00
+
+[INFO] Processing 10-01
+[INFO] 10-01 | Clip 0 | Pred: 93.00 | GT: 86.00
+[INFO] 10-01 | Clip 1 | Pred: 82.00 | GT: 90.00
+[INFO] 10-01 | Clip 2 | Pred: 82.00 | GT: 86.00
+[INFO] 10-01 | Clip 3 | Pred: 83.00 | GT: 84.00
+[INFO] 10-01 | Clip 4 | Pred: 84.00 | GT: 83.00
+[INFO] 10-01 | Clip 5 | Pred: 86.00 | GT: 82.00
+[INFO] 10-01 | Clip 6 | Pred: 85.00 | GT: 86.00
+[INFO] 10-01 | Clip 7 | Pred: 80.00 | GT: 85.00
+[INFO] 10-01 | Clip 8 | Pred: 78.00 | GT: 84.00
+[INFO] 10-01 | Clip 9 | Pred: 77.00 | GT: 81.00
+[INFO] 10-01 | Clip 10 | Pred: 80.00 | GT: 78.00
+
+[INFO] Processing 10-02
+[INFO] 10-02 | Clip 0 | Pred: 99.00 | GT: 92.00
+[INFO] 10-02 | Clip 1 | Pred: 104.00 | GT: 97.00
+[INFO] 10-02 | Clip 2 | Pred: 105.00 | GT: 104.00
+[INFO] 10-02 | Clip 3 | Pred: 99.00 | GT: 105.00
+[INFO] 10-02 | Clip 4 | Pred: 101.00 | GT: 100.00
+[INFO] 10-02 | Clip 5 | Pred: 103.00 | GT: 102.00
+[INFO] 10-02 | Clip 6 | Pred: 101.00 | GT: 103.00
+[INFO] 10-02 | Clip 7 | Pred: 82.00 | GT: 98.00
+[INFO] 10-02 | Clip 8 | Pred: 96.00 | GT: 102.00
+[INFO] 10-02 | Clip 9 | Pred: 88.00 | GT: 100.00
+[INFO] 10-02 | Clip 10 | Pred: 91.00 | GT: 98.00
+
+[INFO] Processing 10-03
+[INFO] 10-03 | Clip 0 | Pred: 79.00 | GT: 85.00
+[INFO] 10-03 | Clip 1 | Pred: 70.00 | GT: 83.00
+[INFO] 10-03 | Clip 2 | Pred: 71.00 | GT: 79.00
+[INFO] 10-03 | Clip 3 | Pred: 72.00 | GT: 71.00
+[INFO] 10-03 | Clip 4 | Pred: 70.00 | GT: 70.00
+[INFO] 10-03 | Clip 5 | Pred: 73.00 | GT: 71.00
+[INFO] 10-03 | Clip 6 | Pred: 71.00 | GT: 72.00
+[INFO] 10-03 | Clip 7 | Pred: 73.00 | GT: 73.00
+[INFO] 10-03 | Clip 8 | Pred: 75.00 | GT: 72.00
+[INFO] 10-03 | Clip 9 | Pred: 76.00 | GT: 73.00
+[INFO] 10-03 | Clip 10 | Pred: 70.00 | GT: 74.00
+[INFO] 10-03 | Clip 11 | Pred: 76.00 | GT: 75.00
+[INFO] 10-03 | Clip 12 | Pred: 73.00 | GT: 77.00
+
+[INFO] Processing 10-04
+[INFO] 10-04 | Clip 0 | Pred: 78.00 | GT: 84.00
+[INFO] 10-04 | Clip 1 | Pred: 71.00 | GT: 84.00
+[INFO] 10-04 | Clip 2 | Pred: 72.00 | GT: 84.00
+[INFO] 10-04 | Clip 3 | Pred: 71.00 | GT: 81.00
+[INFO] 10-04 | Clip 4 | Pred: 73.00 | GT: 81.00
+[INFO] 10-04 | Clip 5 | Pred: 74.00 | GT: 81.00
+[INFO] 10-04 | Clip 6 | Pred: 76.00 | GT: 76.00
+[INFO] 10-04 | Clip 7 | Pred: 74.00 | GT: 77.00
+[INFO] 10-04 | Clip 8 | Pred: 74.00 | GT: 75.00
+[INFO] 10-04 | Clip 9 | Pred: 76.00 | GT: 76.00
+[INFO] 10-04 | Clip 10 | Pred: 74.00 | GT: 78.00
+[INFO] 10-04 | Clip 11 | Pred: 74.00 | GT: 74.00
+[INFO] 10-04 | Clip 12 | Pred: 76.00 | GT: 74.00
+
+[INFO] Processing 10-05
+[INFO] 10-05 | Clip 0 | Pred: 73.00 | GT: 85.00
+[INFO] 10-05 | Clip 1 | Pred: 75.00 | GT: 86.00
+[INFO] 10-05 | Clip 2 | Pred: 70.00 | GT: 85.00
+[INFO] 10-05 | Clip 3 | Pred: 74.00 | GT: 76.00
+[INFO] 10-05 | Clip 4 | Pred: 74.00 | GT: 73.00
+[INFO] 10-05 | Clip 5 | Pred: 72.00 | GT: 76.00
+[INFO] 10-05 | Clip 6 | Pred: 74.00 | GT: 75.00
+[INFO] 10-05 | Clip 7 | Pred: 75.00 | GT: 75.00
+[INFO] 10-05 | Clip 8 | Pred: 71.00 | GT: 75.00
+[INFO] 10-05 | Clip 9 | Pred: 75.00 | GT: 75.00
+[INFO] 10-05 | Clip 10 | Pred: 75.00 | GT: 75.00
+
+[INFO] Processing 10-06
+[INFO] 10-06 | Clip 0 | Pred: 78.00 | GT: 80.00
+[INFO] 10-06 | Clip 1 | Pred: 78.00 | GT: 79.00
+[INFO] 10-06 | Clip 2 | Pred: 77.00 | GT: 77.00
+[INFO] 10-06 | Clip 3 | Pred: 74.00 | GT: 76.00
+[INFO] 10-06 | Clip 4 | Pred: 78.00 | GT: 78.00
+[INFO] 10-06 | Clip 5 | Pred: 78.00 | GT: 78.00
+[INFO] 10-06 | Clip 6 | Pred: 78.00 | GT: 79.00
+[INFO] 10-06 | Clip 7 | Pred: 79.00 | GT: 79.00
+[INFO] 10-06 | Clip 8 | Pred: 76.00 | GT: 79.00
+[INFO] 10-06 | Clip 9 | Pred: 79.00 | GT: 79.00
+[INFO] 10-06 | Clip 10 | Pred: 78.00 | GT: 78.00
