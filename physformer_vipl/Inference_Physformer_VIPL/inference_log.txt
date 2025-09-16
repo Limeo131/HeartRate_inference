@@ -1,0 +1,2923 @@
+
+[INFO] Processing p1-v1-source1.avi
+[INFO] Saved 1036 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 61.400001525878906 | GT: 63.05555555555556
+[INFO] Finished processing p1-v1-source1.avi
+
+[INFO] Processing p1-v1-source2.avi
+[INFO] Saved 1313 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 55.42856979370117 | GT: 64.04444444444445
+[INFO] Finished processing p1-v1-source2.avi
+
+[INFO] Processing p1-v1-source3.avi
+[INFO] Saved 1041 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 61.400001525878906 | GT: 63.05555555555556
+[INFO] Finished processing p1-v1-source3.avi
+
+[INFO] Processing p1-v2-source1.avi
+[INFO] Saved 1162 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 70.83333587646484 | GT: 68.825
+[INFO] Finished processing p1-v2-source1.avi
+
+[INFO] Processing p1-v2-source2.avi
+[INFO] Saved 1338 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 64.57142639160156 | GT: 68.3913043478261
+[INFO] Finished processing p1-v2-source2.avi
+
+[INFO] Processing p1-v2-source3.avi
+[INFO] Saved 1169 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 95.16666412353516 | GT: 68.825
+[INFO] Finished processing p1-v2-source3.avi
+
+[INFO] Processing p1-v3-source1.avi
+[INFO] Saved 864 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 73.75 | GT: 72.7
+[INFO] Finished processing p1-v3-source1.avi
+
+[INFO] Processing p1-v3-source2.avi
+[INFO] Saved 1124 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 59.16666793823242 | GT: 72.28947368421052
+[INFO] Finished processing p1-v3-source2.avi
+
+[INFO] Processing p1-v3-source3.avi
+[INFO] Saved 868 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 74.75 | GT: 72.7
+[INFO] Finished processing p1-v3-source3.avi
+
+[INFO] Processing p1-v4-source1.avi
+[INFO] Saved 667 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 67.33333587646484 | GT: 69.56521739130434
+[INFO] Finished processing p1-v4-source1.avi
+
+[INFO] Processing p1-v4-source2.avi
+[INFO] Saved 1827 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 63.5 | GT: 71.56451612903226
+[INFO] Finished processing p1-v4-source2.avi
+
+[INFO] Processing p1-v4-source3.avi
+[INFO] Saved 671 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 67.66666412353516 | GT: 69.56521739130434
+[INFO] Finished processing p1-v4-source3.avi
+
+[INFO] Processing p1-v5-source1.avi
+[INFO] Saved 465 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 67.5 | GT: 69.39285714285714
+[INFO] Finished processing p1-v5-source1.avi
+
+[INFO] Processing p1-v5-source2.avi
+[INFO] Saved 1035 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 56.79999923706055 | GT: 70.05714285714286
+[INFO] Finished processing p1-v5-source2.avi
+
+[INFO] Processing p1-v5-source3.avi
+[INFO] Saved 559 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 68.5 | GT: 69.39285714285714
+[INFO] Finished processing p1-v5-source3.avi
+
+[INFO] Processing p1-v6-source1.avi
+[INFO] Saved 686 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 68.66666412353516 | GT: 69.45833333333333
+[INFO] Finished processing p1-v6-source1.avi
+
+[INFO] Processing p1-v6-source2.avi
+[INFO] Saved 639 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 56.33333206176758 | GT: 69.5909090909091
+[INFO] Finished processing p1-v6-source2.avi
+
+[INFO] Processing p1-v6-source3.avi
+[INFO] Saved 691 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 68.33333587646484 | GT: 69.45833333333333
+[INFO] Finished processing p1-v6-source3.avi
+
+[INFO] Processing p1-v7-source2.avi
+[INFO] Saved 1290 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 62.14285659790039 | GT: 84.4090909090909
+[INFO] Finished processing p1-v7-source2.avi
+
+[INFO] Processing p1-v7-source3.avi
+[INFO] Saved 861 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 77.5 | GT: 84.06666666666666
+[INFO] Finished processing p1-v7-source3.avi
+
+[INFO] Processing p1-v8-source2.avi
+[INFO] Saved 810 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 65.25 | GT: 79.96428571428571
+[INFO] Finished processing p1-v8-source2.avi
+
+[INFO] Processing p1-v9-source2.avi
+[INFO] Saved 809 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p1-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 79.25 | GT: 74.25
+[INFO] Finished processing p1-v9-source2.avi
+
+[INFO] Processing p10-v1-source1.avi
+[INFO] Saved 803 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 76.0 | GT: 83.65714285714286
+[INFO] Finished processing p10-v1-source1.avi
+
+[INFO] Processing p10-v1-source2.avi
+[INFO] Saved 989 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 66.4000015258789 | GT: 83.70588235294117
+[INFO] Finished processing p10-v1-source2.avi
+
+[INFO] Processing p10-v1-source3.avi
+[INFO] Saved 710 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 78.66666412353516 | GT: 83.65714285714286
+[INFO] Finished processing p10-v1-source3.avi
+
+[INFO] Processing p10-v2-source1.avi
+[INFO] Saved 801 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 108.5 | GT: 80.15789473684211
+[INFO] Finished processing p10-v2-source1.avi
+
+[INFO] Processing p10-v2-source2.avi
+[INFO] Saved 1069 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 94.5999984741211 | GT: 80.94594594594595
+[INFO] Finished processing p10-v2-source2.avi
+
+[INFO] Processing p10-v2-source3.avi
+[INFO] Saved 786 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 70.25 | GT: 80.15789473684211
+[INFO] Finished processing p10-v2-source3.avi
+
+[INFO] Processing p10-v3-source1.avi
+[INFO] Saved 667 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 81.66666412353516 | GT: 82.75
+[INFO] Finished processing p10-v3-source1.avi
+
+[INFO] Processing p10-v3-source2.avi
+[INFO] Saved 1077 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 70.4000015258789 | GT: 82.72972972972973
+[INFO] Finished processing p10-v3-source2.avi
+
+[INFO] Processing p10-v3-source3.avi
+[INFO] Saved 734 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 82.66666412353516 | GT: 82.77142857142857
+[INFO] Finished processing p10-v3-source3.avi
+
+[INFO] Processing p10-v4-source1.avi
+[INFO] Saved 920 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 79.4000015258789 | GT: 78.3125
+[INFO] Finished processing p10-v4-source1.avi
+
+[INFO] Processing p10-v4-source2.avi
+[INFO] Saved 970 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 66.4000015258789 | GT: 78.21212121212122
+[INFO] Finished processing p10-v4-source2.avi
+
+[INFO] Processing p10-v4-source3.avi
+[INFO] Saved 651 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 79.0 | GT: 78.3125
+[INFO] Finished processing p10-v4-source3.avi
+
+[INFO] Processing p10-v5-source1.avi
+[INFO] Saved 500 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 114.5 | GT: 78.3125
+[INFO] Finished processing p10-v5-source1.avi
+
+[INFO] Processing p10-v5-source2.avi
+[INFO] Saved 910 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 69.75 | GT: 78.29032258064517
+[INFO] Finished processing p10-v5-source2.avi
+
+[INFO] Processing p10-v5-source3.avi
+[INFO] Saved 465 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 80.0 | GT: 78.3125
+[INFO] Finished processing p10-v5-source3.avi
+
+[INFO] Processing p10-v6-source1.avi
+[INFO] Saved 584 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 77.5 | GT: 83.70967741935483
+[INFO] Finished processing p10-v6-source1.avi
+
+[INFO] Processing p10-v6-source2.avi
+[INFO] Saved 948 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 65.80000305175781 | GT: 86.12121212121212
+[INFO] Finished processing p10-v6-source2.avi
+
+[INFO] Processing p10-v6-source3.avi
+[INFO] Saved 645 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 79.0 | GT: 83.70967741935483
+[INFO] Finished processing p10-v6-source3.avi
+
+[INFO] Processing p10-v7-source1.avi
+[INFO] Saved 802 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 102.0 | GT: 93.74285714285716
+[INFO] Finished processing p10-v7-source1.avi
+
+[INFO] Processing p10-v7-source2.avi
+[INFO] Saved 990 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 70.5999984741211 | GT: 93.8529411764706
+[INFO] Finished processing p10-v7-source2.avi
+
+[INFO] Processing p10-v7-source3.avi
+[INFO] Saved 713 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 85.66666412353516 | GT: 93.74285714285716
+[INFO] Finished processing p10-v7-source3.avi
+
+[INFO] Processing p10-v8-source2.avi
+[INFO] Saved 975 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 64.0 | GT: 81.88235294117646
+[INFO] Finished processing p10-v8-source2.avi
+
+[INFO] Processing p10-v9-source2.avi
+[INFO] Saved 1547 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p10-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 82.5 | GT: 77.71698113207547
+[INFO] Finished processing p10-v9-source2.avi
+
+[INFO] Processing p100-v1-source2.avi
+[INFO] Saved 1075 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 71.80000305175781 | GT: 91.89189189189187
+[INFO] Finished processing p100-v1-source2.avi
+
+[INFO] Processing p100-v1-source3.avi
+[INFO] Saved 698 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 91.0 | GT: 91.84848484848484
+[INFO] Finished processing p100-v1-source3.avi
+
+[INFO] Processing p100-v2-source2.avi
+[INFO] Saved 1009 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 71.4000015258789 | GT: 100.42857142857144
+[INFO] Finished processing p100-v2-source2.avi
+
+[INFO] Processing p100-v2-source3.avi
+[INFO] Saved 690 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 95.33333587646484 | GT: 100.33333333333331
+[INFO] Finished processing p100-v2-source3.avi
+
+[INFO] Processing p100-v3-source2.avi
+[INFO] Saved 960 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 79.19999694824219 | GT: 100.03030303030305
+[INFO] Finished processing p100-v3-source2.avi
+
+[INFO] Processing p100-v3-source3.avi
+[INFO] Saved 712 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 101.66666412353516 | GT: 99.82352941176472
+[INFO] Finished processing p100-v3-source3.avi
+
+[INFO] Processing p100-v4-source2.avi
+[INFO] Saved 976 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 76.19999694824219 | GT: 99.0
+[INFO] Finished processing p100-v4-source2.avi
+
+[INFO] Processing p100-v4-source3.avi
+[INFO] Saved 657 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 99.66666412353516 | GT: 99.03125
+[INFO] Finished processing p100-v4-source3.avi
+
+[INFO] Processing p100-v5-source2.avi
+[INFO] Saved 960 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 80.0 | GT: 100.15151515151516
+[INFO] Finished processing p100-v5-source2.avi
+
+[INFO] Processing p100-v5-source3.avi
+[INFO] Saved 461 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 91.0 | GT: 100.15625
+[INFO] Finished processing p100-v5-source3.avi
+
+[INFO] Processing p100-v6-source2.avi
+[INFO] Saved 972 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 81.80000305175781 | GT: 105.1818181818182
+[INFO] Finished processing p100-v6-source2.avi
+
+[INFO] Processing p100-v6-source3.avi
+[INFO] Saved 679 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 90.33333587646484 | GT: 104.90322580645162
+[INFO] Finished processing p100-v6-source3.avi
+
+[INFO] Processing p100-v7-source2.avi
+[INFO] Saved 1002 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 99.4000015258789 | GT: 120.94117647058825
+[INFO] Finished processing p100-v7-source2.avi
+
+[INFO] Processing p100-v7-source3.avi
+[INFO] Saved 644 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 119.33333587646484 | GT: 120.70967741935485
+[INFO] Finished processing p100-v7-source3.avi
+
+[INFO] Processing p100-v8-source2.avi
+[INFO] Saved 933 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 75.80000305175781 | GT: 96.84375
+[INFO] Finished processing p100-v8-source2.avi
+
+[INFO] Processing p100-v9-source2.avi
+[INFO] Saved 1021 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p100-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 80.80000305175781 | GT: 100.88571428571429
+[INFO] Finished processing p100-v9-source2.avi
+
+[INFO] Processing p101-v1-2-source2.avi
+[INFO] Saved 1364 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v1-2-source2
+
+ sample number :1 
+
+[INFO] HR: 60.14285659790039 | GT: 73.08695652173913
+[INFO] Finished processing p101-v1-2-source2.avi
+
+[INFO] Processing p101-v1-2-source3.avi
+[INFO] Saved 615 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v1-2-source3
+
+ sample number :1 
+
+[INFO] HR: 73.33333587646484 | GT: 72.37931034482759
+[INFO] Finished processing p101-v1-2-source3.avi
+
+[INFO] Processing p101-v1-source2.avi
+[INFO] Saved 990 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 68.80000305175781 | GT: 79.11764705882354
+[INFO] Finished processing p101-v1-source2.avi
+
+[INFO] Processing p101-v1-source3.avi
+[INFO] Saved 651 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 81.0 | GT: 79.15625
+[INFO] Finished processing p101-v1-source3.avi
+
+[INFO] Processing p101-v2-source2.avi
+[INFO] Saved 997 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 66.80000305175781 | GT: 78.8529411764706
+[INFO] Finished processing p101-v2-source2.avi
+
+[INFO] Processing p101-v2-source3.avi
+[INFO] Saved 600 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 79.0 | GT: 78.86206896551724
+[INFO] Finished processing p101-v2-source3.avi
+
+[INFO] Processing p101-v3-source2.avi
+[INFO] Saved 1018 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 64.5999984741211 | GT: 86.17142857142858
+[INFO] Finished processing p101-v3-source2.avi
+
+[INFO] Processing p101-v3-source3.avi
+[INFO] Saved 681 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 83.66666412353516 | GT: 86.18181818181819
+[INFO] Finished processing p101-v3-source3.avi
+
+[INFO] Processing p101-v4-source2.avi
+[INFO] Saved 958 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 66.19999694824219 | GT: 78.93939393939394
+[INFO] Finished processing p101-v4-source2.avi
+
+[INFO] Processing p101-v4-source3.avi
+[INFO] Saved 684 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 79.33333587646484 | GT: 78.93939393939394
+[INFO] Finished processing p101-v4-source3.avi
+
+[INFO] Processing p101-v5-source2.avi
+[INFO] Saved 923 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 66.19999694824219 | GT: 79.3125
+[INFO] Finished processing p101-v5-source2.avi
+
+[INFO] Processing p101-v5-source3.avi
+[INFO] Saved 413 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 80.0 | GT: 79.56
+[INFO] Finished processing p101-v5-source3.avi
+
+[INFO] Processing p101-v6-source2.avi
+[INFO] Saved 976 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 71.0 | GT: 88.05882352941177
+[INFO] Finished processing p101-v6-source2.avi
+
+[INFO] Processing p101-v6-source3.avi
+[INFO] Saved 660 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 85.66666412353516 | GT: 88.87096774193549
+[INFO] Finished processing p101-v6-source3.avi
+
+[INFO] Processing p101-v7-source2.avi
+[INFO] Saved 981 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 84.80000305175781 | GT: 103.38235294117646
+[INFO] Finished processing p101-v7-source2.avi
+
+[INFO] Processing p101-v7-source3.avi
+[INFO] Saved 642 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 101.0 | GT: 103.16129032258064
+[INFO] Finished processing p101-v7-source3.avi
+
+[INFO] Processing p101-v8-source2.avi
+[INFO] Saved 937 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 68.4000015258789 | GT: 82.8125
+[INFO] Finished processing p101-v8-source2.avi
+
+[INFO] Processing p101-v9-source2.avi
+[INFO] Saved 1014 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p101-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 70.0 | GT: 81.6
+[INFO] Finished processing p101-v9-source2.avi
+
+[INFO] Processing p102-v1-source2.avi
+[INFO] Saved 1026 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 61.0 | GT: 72.6
+[INFO] Finished processing p102-v1-source2.avi
+
+[INFO] Processing p102-v1-source3.avi
+[INFO] Saved 642 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 73.0 | GT: 72.90322580645162
+[INFO] Finished processing p102-v1-source3.avi
+
+[INFO] Processing p102-v2-source2.avi
+[INFO] Saved 931 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 57.599998474121094 | GT: 73.3125
+[INFO] Finished processing p102-v2-source2.avi
+
+[INFO] Processing p102-v2-source3.avi
+[INFO] Saved 674 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 70.66666412353516 | GT: 73.25
+[INFO] Finished processing p102-v2-source3.avi
+
+[INFO] Processing p102-v3-source2.avi
+[INFO] Saved 1201 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 60.66666793823242 | GT: 78.04878048780488
+[INFO] Finished processing p102-v3-source2.avi
+
+[INFO] Processing p102-v3-source3.avi
+[INFO] Saved 806 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 73.5 | GT: 77.94871794871794
+[INFO] Finished processing p102-v3-source3.avi
+
+[INFO] Processing p102-v4-source2.avi
+[INFO] Saved 951 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 59.0 | GT: 70.63636363636364
+[INFO] Finished processing p102-v4-source2.avi
+
+[INFO] Processing p102-v4-source3.avi
+[INFO] Saved 703 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 70.33333587646484 | GT: 70.61764705882354
+[INFO] Finished processing p102-v4-source3.avi
+
+[INFO] Processing p102-v5-source2.avi
+[INFO] Saved 1046 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 58.0 | GT: 70.61111111111111
+[INFO] Finished processing p102-v5-source2.avi
+
+[INFO] Processing p102-v5-source3.avi
+[INFO] Saved 578 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 69.5 | GT: 70.62857142857143
+[INFO] Finished processing p102-v5-source3.avi
+
+[INFO] Processing p102-v6-source2.avi
+[INFO] Saved 1269 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 60.0 | GT: 74.48837209302326
+[INFO] Finished processing p102-v6-source2.avi
+
+[INFO] Processing p102-v6-source3.avi
+[INFO] Saved 843 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 71.25 | GT: 73.58536585365853
+[INFO] Finished processing p102-v6-source3.avi
+
+[INFO] Processing p102-v7-source2.avi
+[INFO] Saved 978 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 69.19999694824219 | GT: 89.17647058823529
+[INFO] Finished processing p102-v7-source2.avi
+
+[INFO] Processing p102-v7-source3.avi
+[INFO] Saved 643 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 84.33333587646484 | GT: 88.83870967741936
+[INFO] Finished processing p102-v7-source3.avi
+
+[INFO] Processing p102-v8-source2.avi
+[INFO] Saved 1036 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 58.0 | GT: 70.61111111111111
+[INFO] Finished processing p102-v8-source2.avi
+
+[INFO] Processing p102-v9-source2.avi
+[INFO] Saved 948 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p102-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 59.0 | GT: 71.39393939393939
+[INFO] Finished processing p102-v9-source2.avi
+
+[INFO] Processing p103-v1-source2.avi
+[INFO] Saved 859 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 62.25 | GT: 65.0
+[INFO] Finished processing p103-v1-source2.avi
+
+[INFO] Processing p103-v1-source3.avi
+[INFO] Saved 772 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 72.5 | GT: 65.0
+[INFO] Finished processing p103-v1-source3.avi
+
+[INFO] Processing p103-v2-source2.avi
+[INFO] Saved 1181 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 63.66666793823242 | GT: 76.6
+[INFO] Finished processing p103-v2-source2.avi
+
+[INFO] Processing p103-v2-source3.avi
+[INFO] Saved 889 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 75.25 | GT: 76.34883720930233
+[INFO] Finished processing p103-v2-source3.avi
+
+[INFO] Processing p103-v3-2-source2.avi
+[INFO] Saved 896 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v3-2-source2
+
+ sample number :1 
+
+[INFO] HR: 62.75 | GT: 76.83870967741936
+[INFO] Finished processing p103-v3-2-source2.avi
+
+[INFO] Processing p103-v3-2-source3.avi
+[INFO] Saved 655 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v3-2-source3
+
+ sample number :1 
+
+[INFO] HR: 75.33333587646484 | GT: 76.75
+[INFO] Finished processing p103-v3-2-source3.avi
+
+[INFO] Processing p103-v3-source2.avi
+[INFO] Saved 1086 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 63.5 | GT: 73.97297297297297
+[INFO] Finished processing p103-v3-source2.avi
+
+[INFO] Processing p103-v3-source3.avi
+[INFO] Saved 722 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 73.66666412353516 | GT: 73.77142857142857
+[INFO] Finished processing p103-v3-source3.avi
+
+[INFO] Processing p103-v4-source2.avi
+[INFO] Saved 894 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 60.5 | GT: 74.09677419354838
+[INFO] Finished processing p103-v4-source2.avi
+
+[INFO] Processing p103-v4-source3.avi
+[INFO] Saved 645 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 72.33333587646484 | GT: 73.74193548387096
+[INFO] Finished processing p103-v4-source3.avi
+
+[INFO] Processing p103-v5-source2.avi
+[INFO] Saved 965 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 70.0 | GT: 80.0909090909091
+[INFO] Finished processing p103-v5-source2.avi
+
+[INFO] Processing p103-v5-source3.avi
+[INFO] Saved 481 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 78.5 | GT: 80.0909090909091
+[INFO] Finished processing p103-v5-source3.avi
+
+[INFO] Processing p103-v6-source2.avi
+[INFO] Saved 1001 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 61.400001525878906 | GT: 81.44117647058823
+[INFO] Finished processing p103-v6-source2.avi
+
+[INFO] Processing p103-v6-source3.avi
+[INFO] Saved 858 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 72.0 | GT: 78.41463414634147
+[INFO] Finished processing p103-v6-source3.avi
+
+[INFO] Processing p103-v7-source2.avi
+[INFO] Saved 1271 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 70.28571319580078 | GT: 84.93023255813954
+[INFO] Finished processing p103-v7-source2.avi
+
+[INFO] Processing p103-v7-source3.avi
+[INFO] Saved 678 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 86.33333587646484 | GT: 85.45454545454545
+[INFO] Finished processing p103-v7-source3.avi
+
+[INFO] Processing p103-v8-source2.avi
+[INFO] Saved 965 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 70.19999694824219 | GT: 84.84848484848484
+[INFO] Finished processing p103-v8-source2.avi
+
+[INFO] Processing p103-v9-source2.avi
+[INFO] Saved 947 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p103-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 63.20000076293945 | GT: 76.93939393939394
+[INFO] Finished processing p103-v9-source2.avi
+
+[INFO] Processing p104-v1-source2.avi
+[INFO] Saved 995 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 69.0 | GT: 88.82352941176471
+[INFO] Finished processing p104-v1-source2.avi
+
+[INFO] Processing p104-v1-source3.avi
+[INFO] Saved 663 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 83.66666412353516 | GT: 88.45454545454545
+[INFO] Finished processing p104-v1-source3.avi
+
+[INFO] Processing p104-v2-source2.avi
+[INFO] Saved 974 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 77.5999984741211 | GT: 90.12121212121212
+[INFO] Finished processing p104-v2-source2.avi
+
+[INFO] Processing p104-v2-source3.avi
+[INFO] Saved 725 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 87.66666412353516 | GT: 88.68571428571428
+[INFO] Finished processing p104-v2-source3.avi
+
+[INFO] Processing p104-v3-source2.avi
+[INFO] Saved 1004 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 74.0 | GT: 91.1470588235294
+[INFO] Finished processing p104-v3-source2.avi
+
+[INFO] Processing p104-v3-source3.avi
+[INFO] Saved 673 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 90.33333587646484 | GT: 91.27272727272728
+[INFO] Finished processing p104-v3-source3.avi
+
+[INFO] Processing p104-v4-source2.avi
+[INFO] Saved 965 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 70.0 | GT: 81.24242424242425
+[INFO] Finished processing p104-v4-source2.avi
+
+[INFO] Processing p104-v4-source3.avi
+[INFO] Saved 1091 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 81.83333587646484 | GT: 82.26923076923077
+[INFO] Finished processing p104-v4-source3.avi
+
+[INFO] Processing p104-v5-source2.avi
+[INFO] Saved 973 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 73.0 | GT: 89.72727272727273
+[INFO] Finished processing p104-v5-source2.avi
+
+[INFO] Processing p104-v5-source3.avi
+[INFO] Saved 463 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 88.5 | GT: 89.75
+[INFO] Finished processing p104-v5-source3.avi
+
+[INFO] Processing p104-v6-source2.avi
+[INFO] Saved 981 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 69.19999694824219 | GT: 89.73529411764706
+[INFO] Finished processing p104-v6-source2.avi
+
+[INFO] Processing p104-v6-source3.avi
+[INFO] Saved 868 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 82.75 | GT: 87.97560975609755
+[INFO] Finished processing p104-v6-source3.avi
+
+[INFO] Processing p104-v7-source2.avi
+[INFO] Saved 835 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 71.25 | GT: 94.86206896551724
+[INFO] Finished processing p104-v7-source2.avi
+
+[INFO] Processing p104-v7-source3.avi
+[INFO] Saved 423 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 91.0 | GT: 94.0952380952381
+[INFO] Finished processing p104-v7-source3.avi
+
+[INFO] Processing p104-v8-source2.avi
+[INFO] Saved 947 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 76.0 | GT: 91.45454545454544
+[INFO] Finished processing p104-v8-source2.avi
+
+[INFO] Processing p104-v9-source2.avi
+[INFO] Saved 946 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p104-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 75.19999694824219 | GT: 96.06060606060606
+[INFO] Finished processing p104-v9-source2.avi
+
+[INFO] Processing p105-v1-source2.avi
+[INFO] Saved 1648 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 64.77777862548828 | GT: 63.94642857142857
+[INFO] Finished processing p105-v1-source2.avi
+
+[INFO] Processing p105-v1-source3.avi
+[INFO] Saved 671 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 67.0 | GT: 63.39393939393939
+[INFO] Finished processing p105-v1-source3.avi
+
+[INFO] Processing p105-v2-source2.avi
+[INFO] Saved 950 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 62.79999923706055 | GT: 63.09090909090909
+[INFO] Finished processing p105-v2-source2.avi
+
+[INFO] Processing p105-v2-source3.avi
+[INFO] Saved 699 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 55.0 | GT: 62.6764705882353
+[INFO] Finished processing p105-v2-source3.avi
+
+[INFO] Processing p105-v3-source2.avi
+[INFO] Saved 1078 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 65.5999984741211 | GT: 69.35135135135135
+[INFO] Finished processing p105-v3-source2.avi
+
+[INFO] Processing p105-v3-source3.avi
+[INFO] Saved 707 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 72.66666412353516 | GT: 69.71428571428571
+[INFO] Finished processing p105-v3-source3.avi
+
+[INFO] Processing p105-v4-source2.avi
+[INFO] Saved 1033 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 50.400001525878906 | GT: 57.71428571428572
+[INFO] Finished processing p105-v4-source2.avi
+
+[INFO] Processing p105-v4-source3.avi
+[INFO] Saved 637 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 60.0 | GT: 57.29032258064516
+[INFO] Finished processing p105-v4-source3.avi
+
+[INFO] Processing p105-v5-source2.avi
+[INFO] Saved 1000 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 56.599998474121094 | GT: 63.088235294117645
+[INFO] Finished processing p105-v5-source2.avi
+
+[INFO] Processing p105-v5-source3.avi
+[INFO] Saved 652 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 63.0 | GT: 63.088235294117645
+[INFO] Finished processing p105-v5-source3.avi
+
+[INFO] Processing p105-v6-source2.avi
+[INFO] Saved 1090 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 50.83333206176758 | GT: 60.270270270270274
+[INFO] Finished processing p105-v6-source2.avi
+
+[INFO] Processing p105-v6-source3.avi
+[INFO] Saved 719 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 66.33333587646484 | GT: 60.02857142857143
+[INFO] Finished processing p105-v6-source3.avi
+
+[INFO] Processing p105-v7-source2.avi
+[INFO] Saved 1011 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 71.4000015258789 | GT: 87.97142857142858
+[INFO] Finished processing p105-v7-source2.avi
+
+[INFO] Processing p105-v7-source3.avi
+[INFO] Saved 667 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 83.66666412353516 | GT: 87.93939393939394
+[INFO] Finished processing p105-v7-source3.avi
+
+[INFO] Processing p105-v8-source2.avi
+[INFO] Saved 925 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 61.400001525878906 | GT: 67.9375
+[INFO] Finished processing p105-v8-source2.avi
+
+[INFO] Processing p105-v9-source2.avi
+[INFO] Saved 1112 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p105-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 69.16666412353516 | GT: 61.13157894736842
+[INFO] Finished processing p105-v9-source2.avi
+
+[INFO] Processing p106-v1-source2.avi
+[INFO] Saved 948 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 76.0909090909091
+[INFO] Finished processing p106-v1-source2.avi
+
+[INFO] Processing p106-v1-source3.avi
+[INFO] Saved 711 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 75.0 | GT: 74.6
+[INFO] Finished processing p106-v1-source3.avi
+
+[INFO] Processing p106-v2-source2.avi
+[INFO] Saved 1285 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 75.14286041259766 | GT: 87.13636363636364
+[INFO] Finished processing p106-v2-source2.avi
+
+[INFO] Processing p106-v2-source3.avi
+[INFO] Saved 860 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 82.5 | GT: 86.78048780487805
+[INFO] Finished processing p106-v2-source3.avi
+
+[INFO] Processing p106-v3-source2.avi
+[INFO] Saved 902 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 78.75 | GT: 97.09677419354838
+[INFO] Finished processing p106-v3-source2.avi
+
+[INFO] Processing p106-v3-source3.avi
+[INFO] Saved 825 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 96.5 | GT: 96.1025641025641
+[INFO] Finished processing p106-v3-source3.avi
+
+[INFO] Processing p106-v4-source2.avi
+[INFO] Saved 1014 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 71.0 | GT: 88.45714285714286
+[INFO] Finished processing p106-v4-source2.avi
+
+[INFO] Processing p106-v4-source3.avi
+[INFO] Saved 676 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 86.33333587646484 | GT: 88.03125
+[INFO] Finished processing p106-v4-source3.avi
+
+[INFO] Processing p106-v5-source2.avi
+[INFO] Saved 885 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 76.5 | GT: 90.0
+[INFO] Finished processing p106-v5-source2.avi
+
+[INFO] Processing p106-v5-source3.avi
+[INFO] Saved 443 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 83.0 | GT: 89.8
+[INFO] Finished processing p106-v5-source3.avi
+
+[INFO] Processing p106-v6-source2.avi
+[INFO] Saved 906 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 74.25 | GT: 92.80645161290325
+[INFO] Finished processing p106-v6-source2.avi
+
+[INFO] Processing p106-v6-source3.avi
+[INFO] Saved 734 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 85.0 | GT: 92.13888888888889
+[INFO] Finished processing p106-v6-source3.avi
+
+[INFO] Processing p106-v7-source2.avi
+[INFO] Saved 1072 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 87.80000305175781 | GT: 109.48648648648648
+[INFO] Finished processing p106-v7-source2.avi
+
+[INFO] Processing p106-v7-source3.avi
+[INFO] Saved 643 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 103.33333587646484 | GT: 108.96774193548389
+[INFO] Finished processing p106-v7-source3.avi
+
+[INFO] Processing p106-v8-source2.avi
+[INFO] Saved 943 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 72.0 | GT: 94.34375
+[INFO] Finished processing p106-v8-source2.avi
+
+[INFO] Processing p106-v9-source2.avi
+[INFO] Saved 1213 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p106-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 71.0 | GT: 92.17073170731707
+[INFO] Finished processing p106-v9-source2.avi
+
+[INFO] Processing p107-v1-source2.avi
+[INFO] Saved 891 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 82.93548387096774
+[INFO] Finished processing p107-v1-source2.avi
+
+[INFO] Processing p107-v1-source3.avi
+[INFO] Saved 593 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 78.5 | GT: 82.53571428571429
+[INFO] Finished processing p107-v1-source3.avi
+
+[INFO] Processing p107-v2-source2.avi
+[INFO] Saved 996 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 71.0 | GT: 85.91176470588235
+[INFO] Finished processing p107-v2-source2.avi
+
+[INFO] Processing p107-v2-source3.avi
+[INFO] Saved 604 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 74.33333587646484 | GT: 85.03448275862068
+[INFO] Finished processing p107-v2-source3.avi
+
+[INFO] Processing p107-v3-source2.avi
+[INFO] Saved 958 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 76.5999984741211 | GT: 100.72727272727272
+[INFO] Finished processing p107-v3-source2.avi
+
+[INFO] Processing p107-v3-source3.avi
+[INFO] Saved 726 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 85.33333587646484 | GT: 100.6470588235294
+[INFO] Finished processing p107-v3-source3.avi
+
+[INFO] Processing p107-v4-source2.avi
+[INFO] Saved 939 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 70.4000015258789 | GT: 94.0
+[INFO] Finished processing p107-v4-source2.avi
+
+[INFO] Processing p107-v4-source3.avi
+[INFO] Saved 702 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 87.0 | GT: 92.48484848484848
+[INFO] Finished processing p107-v4-source3.avi
+
+[INFO] Processing p107-v5-source2.avi
+[INFO] Saved 914 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 66.5 | GT: 88.09677419354838
+[INFO] Finished processing p107-v5-source2.avi
+
+[INFO] Processing p107-v5-source3.avi
+[INFO] Saved 500 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 60.0 | GT: 88.11764705882354
+[INFO] Finished processing p107-v5-source3.avi
+
+[INFO] Processing p107-v6-source2.avi
+[INFO] Saved 1035 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 95.19999694824219 | GT: 94.25
+[INFO] Finished processing p107-v6-source2.avi
+
+[INFO] Processing p107-v6-source3.avi
+[INFO] Saved 716 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 84.66666412353516 | GT: 93.48484848484848
+[INFO] Finished processing p107-v6-source3.avi
+
+[INFO] Processing p107-v7-source2.avi
+[INFO] Saved 1031 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 82.19999694824219 | GT: 114.8
+[INFO] Finished processing p107-v7-source2.avi
+
+[INFO] Processing p107-v7-source3.avi
+[INFO] Saved 794 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 71.25 | GT: 113.34210526315788
+[INFO] Finished processing p107-v7-source3.avi
+
+[INFO] Processing p107-v8-source2.avi
+[INFO] Saved 1021 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 78.80000305175781 | GT: 87.65714285714286
+[INFO] Finished processing p107-v8-source2.avi
+
+[INFO] Processing p107-v9-source2.avi
+[INFO] Saved 1021 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p107-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 82.4000015258789 | GT: 95.77142857142856
+[INFO] Finished processing p107-v9-source2.avi
+
+[INFO] Processing p11-v1-source1.avi
+[INFO] Saved 715 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 65.66666412353516 | GT: 70.5
+[INFO] Finished processing p11-v1-source1.avi
+
+[INFO] Processing p11-v1-source2.avi
+[INFO] Saved 933 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 56.79999923706055 | GT: 70.4375
+[INFO] Finished processing p11-v1-source2.avi
+
+[INFO] Processing p11-v1-source3.avi
+[INFO] Saved 854 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 67.0 | GT: 70.5
+[INFO] Finished processing p11-v1-source3.avi
+
+[INFO] Processing p11-v2-source1.avi
+[INFO] Saved 603 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 68.0 | GT: 66.4
+[INFO] Finished processing p11-v2-source1.avi
+
+[INFO] Processing p11-v2-source2.avi
+[INFO] Saved 433 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 69.0 | GT: 66.66666666666667
+[INFO] Finished processing p11-v2-source2.avi
+
+[INFO] Processing p11-v2-source3.avi
+[INFO] Saved 722 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 102.66666412353516 | GT: 66.4
+[INFO] Finished processing p11-v2-source3.avi
+
+[INFO] Processing p11-v3-source1.avi
+[INFO] Saved 593 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 74.0 | GT: 73.04166666666667
+[INFO] Finished processing p11-v3-source1.avi
+
+[INFO] Processing p11-v3-source2.avi
+[INFO] Saved 488 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 63.0 | GT: 72.47058823529412
+[INFO] Finished processing p11-v3-source2.avi
+
+[INFO] Processing p11-v3-source3.avi
+[INFO] Saved 710 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 74.33333587646484 | GT: 73.04166666666667
+[INFO] Finished processing p11-v3-source3.avi
+
+[INFO] Processing p11-v4-source1.avi
+[INFO] Saved 842 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 69.5 | GT: 63.75862068965517
+[INFO] Finished processing p11-v4-source1.avi
+
+[INFO] Processing p11-v4-source2.avi
+[INFO] Saved 1008 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 60.0 | GT: 68.6
+[INFO] Finished processing p11-v4-source2.avi
+
+[INFO] Processing p11-v4-source3.avi
+[INFO] Saved 845 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 63.75862068965517
+[INFO] Finished processing p11-v4-source3.avi
+
+[INFO] Processing p11-v5-source1.avi
+[INFO] Saved 418 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 73.0 | GT: 65.0
+[INFO] Finished processing p11-v5-source1.avi
+
+[INFO] Processing p11-v5-source2.avi
+[INFO] Saved 837 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 63.75 | GT: 65.0
+[INFO] Finished processing p11-v5-source2.avi
+
+[INFO] Processing p11-v5-source3.avi
+[INFO] Saved 397 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 73.0 | GT: 65.0
+[INFO] Finished processing p11-v5-source3.avi
+
+[INFO] Processing p11-v6-source1.avi
+[INFO] Saved 672 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 77.0 | GT: 73.07142857142857
+[INFO] Finished processing p11-v6-source1.avi
+
+[INFO] Processing p11-v6-source2.avi
+[INFO] Saved 1036 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 63.20000076293945 | GT: 69.94444444444444
+[INFO] Finished processing p11-v6-source2.avi
+
+[INFO] Processing p11-v6-source3.avi
+[INFO] Saved 807 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 76.0 | GT: 73.07142857142857
+[INFO] Finished processing p11-v6-source3.avi
+
+[INFO] Processing p11-v7-source2.avi
+[INFO] Saved 961 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 73.80000305175781 | GT: 92.51515151515152
+[INFO] Finished processing p11-v7-source2.avi
+
+[INFO] Processing p11-v8-source2.avi
+[INFO] Saved 793 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 58.5 | GT: 69.07407407407408
+[INFO] Finished processing p11-v8-source2.avi
+
+[INFO] Processing p11-v9-source2.avi
+[INFO] Saved 936 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p11-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 64.80000305175781 | GT: 66.96875
+[INFO] Finished processing p11-v9-source2.avi
+
+[INFO] Processing p12-v1-source1.avi
+[INFO] Saved 726 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 63.66666793823242 | GT: 89.03333333333333
+[INFO] Finished processing p12-v1-source1.avi
+
+[INFO] Processing p12-v1-source2.avi
+[INFO] Saved 962 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 56.20000076293945 | GT: 88.63636363636364
+[INFO] Finished processing p12-v1-source2.avi
+
+[INFO] Processing p12-v1-source3.avi
+[INFO] Saved 618 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 89.03333333333333
+[INFO] Finished processing p12-v1-source3.avi
+
+[INFO] Processing p12-v2-source1.avi
+[INFO] Saved 844 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 68.0 | GT: 65.0
+[INFO] Finished processing p12-v2-source1.avi
+
+[INFO] Processing p12-v2-source2.avi
+[INFO] Saved 941 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 66.0 | GT: 65.3125
+[INFO] Finished processing p12-v2-source2.avi
+
+[INFO] Processing p12-v2-source3.avi
+[INFO] Saved 718 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 70.66666412353516 | GT: 65.0
+[INFO] Finished processing p12-v2-source3.avi
+
+[INFO] Processing p12-v3-source1.avi
+[INFO] Saved 905 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 71.5 | GT: 60.87096774193548
+[INFO] Finished processing p12-v3-source1.avi
+
+[INFO] Processing p12-v3-source2.avi
+[INFO] Saved 975 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 59.400001525878906 | GT: 60.91176470588236
+[INFO] Finished processing p12-v3-source2.avi
+
+[INFO] Processing p12-v3-source3.avi
+[INFO] Saved 646 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 72.66666412353516 | GT: 60.87096774193548
+[INFO] Finished processing p12-v3-source3.avi
+
+[INFO] Processing p12-v4-source1.avi
+[INFO] Saved 850 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 59.75 | GT: 58.44827586206897
+[INFO] Finished processing p12-v4-source1.avi
+
+[INFO] Processing p12-v4-source2.avi
+[INFO] Saved 986 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 59.79999923706055 | GT: 58.5
+[INFO] Finished processing p12-v4-source2.avi
+
+[INFO] Processing p12-v4-source3.avi
+[INFO] Saved 606 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 62.33333206176758 | GT: 58.44827586206897
+[INFO] Finished processing p12-v4-source3.avi
+
+[INFO] Processing p12-v5-source1.avi
+[INFO] Saved 776 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 62.25 | GT: 60.5
+[INFO] Finished processing p12-v5-source1.avi
+
+[INFO] Processing p12-v5-source2.avi
+[INFO] Saved 921 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 52.599998474121094 | GT: 60.59375
+[INFO] Finished processing p12-v5-source2.avi
+
+[INFO] Processing p12-v5-source3.avi
+[INFO] Saved 664 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 60.33333206176758 | GT: 60.5
+[INFO] Finished processing p12-v5-source3.avi
+
+[INFO] Processing p12-v6-source1.avi
+[INFO] Saved 854 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 66.0 | GT: 61.48275862068966
+[INFO] Finished processing p12-v6-source1.avi
+
+[INFO] Processing p12-v6-source2.avi
+[INFO] Saved 908 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 56.25 | GT: 61.32258064516129
+[INFO] Finished processing p12-v6-source2.avi
+
+[INFO] Processing p12-v6-source3.avi
+[INFO] Saved 611 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 65.66666412353516 | GT: 61.48275862068966
+[INFO] Finished processing p12-v6-source3.avi
+
+[INFO] Processing p12-v7-source1.avi
+[INFO] Saved 747 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 70.33333587646484 | GT: 75.12903225806451
+[INFO] Finished processing p12-v7-source1.avi
+
+[INFO] Processing p12-v7-source2.avi
+[INFO] Saved 942 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 61.599998474121094 | GT: 75.125
+[INFO] Finished processing p12-v7-source2.avi
+
+[INFO] Processing p12-v7-source3.avi
+[INFO] Saved 637 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 69.0 | GT: 75.12903225806451
+[INFO] Finished processing p12-v7-source3.avi
+
+[INFO] Processing p12-v8-source2.avi
+[INFO] Saved 963 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 56.0 | GT: 68.72727272727273
+[INFO] Finished processing p12-v8-source2.avi
+
+[INFO] Processing p12-v9-source2.avi
+[INFO] Saved 948 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p12-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 68.80000305175781 | GT: 64.15151515151516
+[INFO] Finished processing p12-v9-source2.avi
+
+[INFO] Processing p13-v1-source1.avi
+[INFO] Saved 871 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 65.75 | GT: 66.46666666666667
+[INFO] Finished processing p13-v1-source1.avi
+
+[INFO] Processing p13-v1-source2.avi
+[INFO] Saved 943 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 56.20000076293945 | GT: 66.625
+[INFO] Finished processing p13-v1-source2.avi
+
+[INFO] Processing p13-v1-source3.avi
+[INFO] Saved 618 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 64.66666412353516 | GT: 66.46666666666667
+[INFO] Finished processing p13-v1-source3.avi
+
+[INFO] Processing p13-v2-source1.avi
+[INFO] Saved 721 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 71.66666412353516 | GT: 73.16666666666667
+[INFO] Finished processing p13-v2-source1.avi
+
+[INFO] Processing p13-v2-source2.avi
+[INFO] Saved 916 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 87.5 | GT: 73.0625
+[INFO] Finished processing p13-v2-source2.avi
+
+[INFO] Processing p13-v2-source3.avi
+[INFO] Saved 613 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 76.0 | GT: 73.16666666666667
+[INFO] Finished processing p13-v2-source3.avi
+
+[INFO] Processing p13-v3-source1.avi
+[INFO] Saved 708 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 73.66666412353516 | GT: 74.86206896551724
+[INFO] Finished processing p13-v3-source1.avi
+
+[INFO] Processing p13-v3-source2.avi
+[INFO] Saved 918 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 63.25 | GT: 74.8125
+[INFO] Finished processing p13-v3-source2.avi
+
+[INFO] Processing p13-v3-source3.avi
+[INFO] Saved 603 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 75.33333587646484 | GT: 74.86206896551724
+[INFO] Finished processing p13-v3-source3.avi
+
+[INFO] Processing p13-v4-source1.avi
+[INFO] Saved 756 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 66.0 | GT: 67.41935483870968
+[INFO] Finished processing p13-v4-source1.avi
+
+[INFO] Processing p13-v4-source2.avi
+[INFO] Saved 963 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 55.599998474121094 | GT: 67.48484848484848
+[INFO] Finished processing p13-v4-source2.avi
+
+[INFO] Processing p13-v4-source3.avi
+[INFO] Saved 638 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 67.0 | GT: 67.41935483870968
+[INFO] Finished processing p13-v4-source3.avi
+
+[INFO] Processing p13-v5-source1.avi
+[INFO] Saved 499 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 67.5 | GT: 68.7741935483871
+[INFO] Finished processing p13-v5-source1.avi
+
+[INFO] Processing p13-v5-source2.avi
+[INFO] Saved 921 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 58.20000076293945 | GT: 68.8125
+[INFO] Finished processing p13-v5-source2.avi
+
+[INFO] Processing p13-v5-source3.avi
+[INFO] Saved 596 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 67.0 | GT: 68.7741935483871
+[INFO] Finished processing p13-v5-source3.avi
+
+[INFO] Processing p13-v6-source1.avi
+[INFO] Saved 692 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 68.0 | GT: 73.75862068965517
+[INFO] Finished processing p13-v6-source1.avi
+
+[INFO] Processing p13-v6-source2.avi
+[INFO] Saved 1009 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 58.400001525878906 | GT: 74.4
+[INFO] Finished processing p13-v6-source2.avi
+
+[INFO] Processing p13-v6-source3.avi
+[INFO] Saved 597 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 68.5 | GT: 73.75862068965517
+[INFO] Finished processing p13-v6-source3.avi
+
+[INFO] Processing p13-v7-source2.avi
+[INFO] Saved 977 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 71.19999694824219 | GT: 105.70588235294116
+[INFO] Finished processing p13-v7-source2.avi
+
+[INFO] Processing p13-v7-source3.avi
+[INFO] Saved 648 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 97.66666412353516 | GT: 106.0625
+[INFO] Finished processing p13-v7-source3.avi
+
+[INFO] Processing p13-v8-source2.avi
+[INFO] Saved 943 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 61.599998474121094 | GT: 75.125
+[INFO] Finished processing p13-v8-source2.avi
+
+[INFO] Processing p13-v9-source2.avi
+[INFO] Saved 1310 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p13-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 70.85713958740234 | GT: 79.5111111111111
+[INFO] Finished processing p13-v9-source2.avi
+
+[INFO] Processing p14-v1-source1.avi
+[INFO] Saved 746 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 91.0 | GT: 90.58064516129032
+[INFO] Finished processing p14-v1-source1.avi
+
+[INFO] Processing p14-v1-source2.avi
+[INFO] Saved 1021 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 76.5999984741211 | GT: 90.34285714285714
+[INFO] Finished processing p14-v1-source2.avi
+
+[INFO] Processing p14-v1-source3.avi
+[INFO] Saved 633 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 88.0 | GT: 90.58064516129032
+[INFO] Finished processing p14-v1-source3.avi
+
+[INFO] Processing p14-v2-source1.avi
+[INFO] Saved 751 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 72.33333587646484 | GT: 86.16129032258064
+[INFO] Finished processing p14-v2-source1.avi
+
+[INFO] Processing p14-v2-source2.avi
+[INFO] Saved 1081 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 90.16666412353516 | GT: 86.1891891891892
+[INFO] Finished processing p14-v2-source2.avi
+
+[INFO] Processing p14-v2-source3.avi
+[INFO] Saved 633 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 81.66666412353516 | GT: 86.16129032258064
+[INFO] Finished processing p14-v2-source3.avi
+
+[INFO] Processing p14-v3-source1.avi
+[INFO] Saved 746 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 94.0 | GT: 94.93548387096774
+[INFO] Finished processing p14-v3-source1.avi
+
+[INFO] Processing p14-v3-source2.avi
+[INFO] Saved 952 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 73.19999694824219 | GT: 94.57575757575758
+[INFO] Finished processing p14-v3-source2.avi
+
+[INFO] Processing p14-v3-source3.avi
+[INFO] Saved 631 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 92.66666412353516 | GT: 94.93548387096774
+[INFO] Finished processing p14-v3-source3.avi
+
+[INFO] Processing p14-v4-source1.avi
+[INFO] Saved 753 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 85.66666412353516 | GT: 85.25806451612904
+[INFO] Finished processing p14-v4-source1.avi
+
+[INFO] Processing p14-v4-source2.avi
+[INFO] Saved 971 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 76.19999694824219 | GT: 85.0909090909091
+[INFO] Finished processing p14-v4-source2.avi
+
+[INFO] Processing p14-v4-source3.avi
+[INFO] Saved 640 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 85.66666412353516 | GT: 85.25806451612904
+[INFO] Finished processing p14-v4-source3.avi
+
+[INFO] Processing p14-v5-source1.avi
+[INFO] Saved 509 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 89.0 | GT: 89.375
+[INFO] Finished processing p14-v5-source1.avi
+
+[INFO] Processing p14-v5-source2.avi
+[INFO] Saved 927 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 76.5999984741211 | GT: 89.375
+[INFO] Finished processing p14-v5-source2.avi
+
+[INFO] Processing p14-v5-source3.avi
+[INFO] Saved 607 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 87.33333587646484 | GT: 89.375
+[INFO] Finished processing p14-v5-source3.avi
+
+[INFO] Processing p14-v6-source1.avi
+[INFO] Saved 750 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 90.0 | GT: 86.38709677419355
+[INFO] Finished processing p14-v6-source1.avi
+
+[INFO] Processing p14-v6-source2.avi
+[INFO] Saved 976 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 70.80000305175781 | GT: 86.5
+[INFO] Finished processing p14-v6-source2.avi
+
+[INFO] Processing p14-v6-source3.avi
+[INFO] Saved 637 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 84.66666412353516 | GT: 86.38709677419355
+[INFO] Finished processing p14-v6-source3.avi
+
+[INFO] Processing p14-v7-source1.avi
+[INFO] Saved 788 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 96.0 | GT: 95.48484848484848
+[INFO] Finished processing p14-v7-source1.avi
+
+[INFO] Processing p14-v7-source2.avi
+[INFO] Saved 1005 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 77.5999984741211 | GT: 95.48571428571428
+[INFO] Finished processing p14-v7-source2.avi
+
+[INFO] Processing p14-v7-source3.avi
+[INFO] Saved 671 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 93.0 | GT: 95.48484848484848
+[INFO] Finished processing p14-v7-source3.avi
+
+[INFO] Processing p14-v8-source2.avi
+[INFO] Saved 930 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 84.19999694824219 | GT: 93.28125
+[INFO] Finished processing p14-v8-source2.avi
+
+[INFO] Processing p14-v9-source2.avi
+[INFO] Saved 915 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p14-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 71.75 | GT: 86.34375
+[INFO] Finished processing p14-v9-source2.avi
+
+[INFO] Processing p15-v1-source1.avi
+[INFO] Saved 915 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 60.25 | GT: 62.53125
+[INFO] Finished processing p15-v1-source1.avi
+
+[INFO] Processing p15-v1-source2.avi
+[INFO] Saved 977 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 51.400001525878906 | GT: 62.91176470588236
+[INFO] Finished processing p15-v1-source2.avi
+
+[INFO] Processing p15-v1-source3.avi
+[INFO] Saved 650 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 60.0 | GT: 62.53125
+[INFO] Finished processing p15-v1-source3.avi
+
+[INFO] Processing p15-v2-source1.avi
+[INFO] Saved 765 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 81.0 | GT: 64.65517241379311
+[INFO] Finished processing p15-v2-source1.avi
+
+[INFO] Processing p15-v2-source2.avi
+[INFO] Saved 1178 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 64.16666412353516 | GT: 64.0
+[INFO] Finished processing p15-v2-source2.avi
+
+[INFO] Processing p15-v2-source3.avi
+[INFO] Saved 598 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 77.5 | GT: 64.65517241379311
+[INFO] Finished processing p15-v2-source3.avi
+
+[INFO] Processing p15-v3-source1.avi
+[INFO] Saved 1056 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 96.19999694824219 | GT: 59.25
+[INFO] Finished processing p15-v3-source1.avi
+
+[INFO] Processing p15-v3-source2.avi
+[INFO] Saved 1019 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 67.19999694824219 | GT: 59.54285714285714
+[INFO] Finished processing p15-v3-source2.avi
+
+[INFO] Processing p15-v3-source3.avi
+[INFO] Saved 754 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 72.33333587646484 | GT: 59.25
+[INFO] Finished processing p15-v3-source3.avi
+
+[INFO] Processing p15-v4-source1.avi
+[INFO] Saved 750 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 59.33333206176758 | GT: 58.903225806451616
+[INFO] Finished processing p15-v4-source1.avi
+
+[INFO] Processing p15-v4-source2.avi
+[INFO] Saved 966 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 51.400001525878906 | GT: 58.84848484848485
+[INFO] Finished processing p15-v4-source2.avi
+
+[INFO] Processing p15-v4-source3.avi
+[INFO] Saved 642 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 60.0 | GT: 58.903225806451616
+[INFO] Finished processing p15-v4-source3.avi
+
+[INFO] Processing p15-v5-source1.avi
+[INFO] Saved 510 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 64.5 | GT: 62.53125
+[INFO] Finished processing p15-v5-source1.avi
+
+[INFO] Processing p15-v5-source2.avi
+[INFO] Saved 945 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 54.400001525878906 | GT: 62.45454545454545
+[INFO] Finished processing p15-v5-source2.avi
+
+[INFO] Processing p15-v5-source3.avi
+[INFO] Saved 640 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 63.33333206176758 | GT: 62.53125
+[INFO] Finished processing p15-v5-source3.avi
+
+[INFO] Processing p15-v6-source1.avi
+[INFO] Saved 813 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 60.25 | GT: 66.81818181818181
+[INFO] Finished processing p15-v6-source1.avi
+
+[INFO] Processing p15-v6-source2.avi
+[INFO] Saved 1032 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 52.0 | GT: 66.68571428571428
+[INFO] Finished processing p15-v6-source2.avi
+
+[INFO] Processing p15-v6-source3.avi
+[INFO] Saved 704 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 63.33333206176758 | GT: 66.81818181818181
+[INFO] Finished processing p15-v6-source3.avi
+
+[INFO] Processing p15-v7-source1.avi
+[INFO] Saved 1002 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 100.4000015258789 | GT: 105.0
+[INFO] Finished processing p15-v7-source1.avi
+
+[INFO] Processing p15-v7-source2.avi
+[INFO] Saved 945 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 86.0 | GT: 107.24242424242424
+[INFO] Finished processing p15-v7-source2.avi
+
+[INFO] Processing p15-v7-source3.avi
+[INFO] Saved 713 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 80.33333587646484 | GT: 105.0
+[INFO] Finished processing p15-v7-source3.avi
+
+[INFO] Processing p15-v8-source2.avi
+[INFO] Saved 953 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 53.599998474121094 | GT: 64.0
+[INFO] Finished processing p15-v8-source2.avi
+
+[INFO] Processing p15-v9-source2.avi
+[INFO] Saved 929 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p15-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 64.0 | GT: 67.8125
+[INFO] Finished processing p15-v9-source2.avi
+
+[INFO] Processing p16-v1-2-source1.avi
+[INFO] Saved 931 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v1-2-source1
+
+ sample number :1 
+
+[INFO] HR: 84.4000015258789 | GT: 84.03125
+[INFO] Finished processing p16-v1-2-source1.avi
+
+[INFO] Processing p16-v1-2-source2.avi
+[INFO] Saved 1027 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v1-2-source2
+
+ sample number :1 
+
+[INFO] HR: 69.80000305175781 | GT: 83.71428571428571
+[INFO] Finished processing p16-v1-2-source2.avi
+
+[INFO] Processing p16-v1-2-source3.avi
+[INFO] Saved 661 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v1-2-source3
+
+ sample number :1 
+
+[INFO] HR: 83.0 | GT: 84.03125
+[INFO] Finished processing p16-v1-2-source3.avi
+
+[INFO] Processing p16-v1-source1.avi
+[INFO] Saved 922 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 78.0 | GT: 78.6875
+[INFO] Finished processing p16-v1-source1.avi
+
+[INFO] Processing p16-v1-source2.avi
+[INFO] Saved 998 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 65.80000305175781 | GT: 78.70588235294117
+[INFO] Finished processing p16-v1-source2.avi
+
+[INFO] Processing p16-v1-source3.avi
+[INFO] Saved 649 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 78.66666412353516 | GT: 78.6875
+[INFO] Finished processing p16-v1-source3.avi
+
+[INFO] Processing p16-v2-source1.avi
+[INFO] Saved 795 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 82.25 | GT: 85.14285714285714
+[INFO] Finished processing p16-v2-source1.avi
+
+[INFO] Processing p16-v2-source2.avi
+[INFO] Saved 832 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 69.0 | GT: 85.24137931034483
+[INFO] Finished processing p16-v2-source2.avi
+
+[INFO] Processing p16-v2-source3.avi
+[INFO] Saved 565 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 69.0 | GT: 85.14285714285714
+[INFO] Finished processing p16-v2-source3.avi
+
+[INFO] Processing p16-v3-source1.avi
+[INFO] Saved 919 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 84.0 | GT: 86.375
+[INFO] Finished processing p16-v3-source1.avi
+
+[INFO] Processing p16-v3-source2.avi
+[INFO] Saved 993 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 71.4000015258789 | GT: 86.47058823529412
+[INFO] Finished processing p16-v3-source2.avi
+
+[INFO] Processing p16-v3-source3.avi
+[INFO] Saved 654 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 84.33333587646484 | GT: 86.375
+[INFO] Finished processing p16-v3-source3.avi
+
+[INFO] Processing p16-v4-source1.avi
+[INFO] Saved 892 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 80.75 | GT: 82.54838709677419
+[INFO] Finished processing p16-v4-source1.avi
+
+[INFO] Processing p16-v4-source2.avi
+[INFO] Saved 1058 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 67.19999694824219 | GT: 82.38888888888889
+[INFO] Finished processing p16-v4-source2.avi
+
+[INFO] Processing p16-v4-source3.avi
+[INFO] Saved 633 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 81.0 | GT: 82.54838709677419
+[INFO] Finished processing p16-v4-source3.avi
+
+[INFO] Processing p16-v5-source1.avi
+[INFO] Saved 517 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 83.0 | GT: 83.5625
+[INFO] Finished processing p16-v5-source1.avi
+
+[INFO] Processing p16-v5-source2.avi
+[INFO] Saved 881 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 76.25 | GT: 83.86666666666666
+[INFO] Finished processing p16-v5-source2.avi
+
+[INFO] Processing p16-v5-source3.avi
+[INFO] Saved 667 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 81.66666412353516 | GT: 83.5625
+[INFO] Finished processing p16-v5-source3.avi
+
+[INFO] Processing p16-v6-source1.avi
+[INFO] Saved 951 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 84.80000305175781 | GT: 85.54545454545455
+[INFO] Finished processing p16-v6-source1.avi
+
+[INFO] Processing p16-v6-source2.avi
+[INFO] Saved 1288 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 71.28571319580078 | GT: 85.36363636363636
+[INFO] Finished processing p16-v6-source2.avi
+
+[INFO] Processing p16-v6-source3.avi
+[INFO] Saved 679 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 83.66666412353516 | GT: 85.59375
+[INFO] Finished processing p16-v6-source3.avi
+
+[INFO] Processing p16-v7-source1.avi
+[INFO] Saved 916 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 117.25 | GT: 118.53125
+[INFO] Finished processing p16-v7-source1.avi
+
+[INFO] Processing p16-v7-source2.avi
+[INFO] Saved 972 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 95.4000015258789 | GT: 118.45454545454544
+[INFO] Finished processing p16-v7-source2.avi
+
+[INFO] Processing p16-v7-source3.avi
+[INFO] Saved 652 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 117.33333587646484 | GT: 118.53125
+[INFO] Finished processing p16-v7-source3.avi
+
+[INFO] Processing p16-v8-source2.avi
+[INFO] Saved 932 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 69.5999984741211 | GT: 84.6875
+[INFO] Finished processing p16-v8-source2.avi
+
+[INFO] Processing p16-v9-source2.avi
+[INFO] Saved 931 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p16-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 70.80000305175781 | GT: 84.71875
+[INFO] Finished processing p16-v9-source2.avi
+
+[INFO] Processing p17-v1-source1.avi
+[INFO] Saved 793 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 74.25 | GT: 76.27272727272727
+[INFO] Finished processing p17-v1-source1.avi
+
+[INFO] Processing p17-v1-source2.avi
+[INFO] Saved 1254 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 61.71428680419922 | GT: 74.55813953488372
+[INFO] Finished processing p17-v1-source2.avi
+
+[INFO] Processing p17-v1-source3.avi
+[INFO] Saved 675 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 70.0 | GT: 76.27272727272727
+[INFO] Finished processing p17-v1-source3.avi
+
+[INFO] Processing p17-v2-source1.avi
+[INFO] Saved 763 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 65.25 | GT: 67.6774193548387
+[INFO] Finished processing p17-v2-source1.avi
+
+[INFO] Processing p17-v2-source2.avi
+[INFO] Saved 975 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 54.400001525878906 | GT: 67.73529411764706
+[INFO] Finished processing p17-v2-source2.avi
+
+[INFO] Processing p17-v2-source3.avi
+[INFO] Saved 647 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 67.6774193548387
+[INFO] Finished processing p17-v2-source3.avi
+
+[INFO] Processing p17-v3-source1.avi
+[INFO] Saved 1201 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 95.16666412353516 | GT: 85.82926829268293
+[INFO] Finished processing p17-v3-source1.avi
+
+[INFO] Processing p17-v3-source2.avi
+[INFO] Saved 1146 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 77.5 | GT: 84.97435897435898
+[INFO] Finished processing p17-v3-source2.avi
+
+[INFO] Processing p17-v3-source3.avi
+[INFO] Saved 857 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 91.75 | GT: 85.82926829268293
+[INFO] Finished processing p17-v3-source3.avi
+
+[INFO] Processing p17-v4-source1.avi
+[INFO] Saved 908 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 73.61290322580645
+[INFO] Finished processing p17-v4-source1.avi
+
+[INFO] Processing p17-v4-source2.avi
+[INFO] Saved 1135 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 55.33333206176758 | GT: 72.07692307692308
+[INFO] Finished processing p17-v4-source2.avi
+
+[INFO] Processing p17-v4-source3.avi
+[INFO] Saved 646 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 63.66666793823242 | GT: 73.61290322580645
+[INFO] Finished processing p17-v4-source3.avi
+
+[INFO] Processing p17-v5-source1.avi
+[INFO] Saved 485 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 65.0 | GT: 67.96666666666667
+[INFO] Finished processing p17-v5-source1.avi
+
+[INFO] Processing p17-v5-source2.avi
+[INFO] Saved 964 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 54.20000076293945 | GT: 68.60606060606061
+[INFO] Finished processing p17-v5-source2.avi
+
+[INFO] Processing p17-v5-source3.avi
+[INFO] Saved 616 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 66.33333587646484 | GT: 68.19354838709677
+[INFO] Finished processing p17-v5-source3.avi
+
+[INFO] Processing p17-v6-source1.avi
+[INFO] Saved 757 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 74.66666412353516 | GT: 74.9375
+[INFO] Finished processing p17-v6-source1.avi
+
+[INFO] Processing p17-v6-source2.avi
+[INFO] Saved 972 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 59.599998474121094 | GT: 74.75757575757575
+[INFO] Finished processing p17-v6-source2.avi
+
+[INFO] Processing p17-v6-source3.avi
+[INFO] Saved 651 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 75.66666412353516 | GT: 74.9375
+[INFO] Finished processing p17-v6-source3.avi
+
+[INFO] Processing p17-v7-source1.avi
+[INFO] Saved 788 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 122.75 | GT: 129.0
+[INFO] Finished processing p17-v7-source1.avi
+
+[INFO] Processing p17-v7-source2.avi
+[INFO] Saved 988 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 103.4000015258789 | GT: 129.14705882352942
+[INFO] Finished processing p17-v7-source2.avi
+
+[INFO] Processing p17-v7-source3.avi
+[INFO] Saved 670 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 127.33333587646484 | GT: 129.0
+[INFO] Finished processing p17-v7-source3.avi
+
+[INFO] Processing p17-v8-source2.avi
+[INFO] Saved 924 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 58.79999923706055 | GT: 66.25
+[INFO] Finished processing p17-v8-source2.avi
+
+[INFO] Processing p17-v9-source2.avi
+[INFO] Saved 932 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p17-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 63.0 | GT: 68.15625
+[INFO] Finished processing p17-v9-source2.avi
+
+[INFO] Processing p18-v1-source1.avi
+[INFO] Saved 734 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 73.0 | GT: 76.66666666666667
+[INFO] Finished processing p18-v1-source1.avi
+
+[INFO] Processing p18-v1-source2.avi
+[INFO] Saved 959 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 62.400001525878906 | GT: 76.42424242424242
+[INFO] Finished processing p18-v1-source2.avi
+
+[INFO] Processing p18-v1-source3.avi
+[INFO] Saved 616 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 72.33333587646484 | GT: 76.66666666666667
+[INFO] Finished processing p18-v1-source3.avi
+
+[INFO] Processing p18-v2-source1.avi
+[INFO] Saved 781 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 72.25 | GT: 74.34375
+[INFO] Finished processing p18-v2-source1.avi
+
+[INFO] Processing p18-v2-source2.avi
+[INFO] Saved 981 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v2-source2
+
+ sample number :1 
+
+[INFO] HR: 61.0 | GT: 74.55882352941177
+[INFO] Finished processing p18-v2-source2.avi
+
+[INFO] Processing p18-v2-source3.avi
+[INFO] Saved 666 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v2-source3
+
+ sample number :1 
+
+[INFO] HR: 74.0 | GT: 74.34375
+[INFO] Finished processing p18-v2-source3.avi
+
+[INFO] Processing p18-v3-source1.avi
+[INFO] Saved 919 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v3-source1
+
+ sample number :1 
+
+[INFO] HR: 80.5 | GT: 81.15625
+[INFO] Finished processing p18-v3-source1.avi
+
+[INFO] Processing p18-v3-source2.avi
+[INFO] Saved 975 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v3-source2
+
+ sample number :1 
+
+[INFO] HR: 68.19999694824219 | GT: 80.70588235294117
+[INFO] Finished processing p18-v3-source2.avi
+
+[INFO] Processing p18-v3-source3.avi
+[INFO] Saved 654 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v3-source3
+
+ sample number :1 
+
+[INFO] HR: 81.0 | GT: 81.15625
+[INFO] Finished processing p18-v3-source3.avi
+
+[INFO] Processing p18-v4-source1.avi
+[INFO] Saved 847 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v4-source1
+
+ sample number :1 
+
+[INFO] HR: 74.5 | GT: 77.13333333333334
+[INFO] Finished processing p18-v4-source1.avi
+
+[INFO] Processing p18-v4-source2.avi
+[INFO] Saved 972 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v4-source2
+
+ sample number :1 
+
+[INFO] HR: 61.79999923706055 | GT: 78.03030303030303
+[INFO] Finished processing p18-v4-source2.avi
+
+[INFO] Processing p18-v4-source3.avi
+[INFO] Saved 603 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v4-source3
+
+ sample number :1 
+
+[INFO] HR: 75.0 | GT: 77.13333333333334
+[INFO] Finished processing p18-v4-source3.avi
+
+[INFO] Processing p18-v5-source1.avi
+[INFO] Saved 750 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v5-source1
+
+ sample number :1 
+
+[INFO] HR: 72.66666412353516 | GT: 75.48387096774194
+[INFO] Finished processing p18-v5-source1.avi
+
+[INFO] Processing p18-v5-source2.avi
+[INFO] Saved 911 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v5-source2
+
+ sample number :1 
+
+[INFO] HR: 64.5 | GT: 75.51612903225806
+[INFO] Finished processing p18-v5-source2.avi
+
+[INFO] Processing p18-v5-source3.avi
+[INFO] Saved 636 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v5-source3
+
+ sample number :1 
+
+[INFO] HR: 113.0 | GT: 75.48387096774194
+[INFO] Finished processing p18-v5-source3.avi
+
+[INFO] Processing p18-v6-source1.avi
+[INFO] Saved 653 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v6-source1
+
+ sample number :1 
+
+[INFO] HR: 81.33333587646484 | GT: 83.03571428571429
+[INFO] Finished processing p18-v6-source1.avi
+
+[INFO] Processing p18-v6-source2.avi
+[INFO] Saved 790 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v6-source2
+
+ sample number :1 
+
+[INFO] HR: 66.25 | GT: 82.96296296296296
+[INFO] Finished processing p18-v6-source2.avi
+
+[INFO] Processing p18-v6-source3.avi
+[INFO] Saved 555 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v6-source3
+
+ sample number :1 
+
+[INFO] HR: 81.0 | GT: 83.03571428571429
+[INFO] Finished processing p18-v6-source3.avi
+
+[INFO] Processing p18-v7-source1.avi
+[INFO] Saved 738 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v7-source1
+
+ sample number :1 
+
+[INFO] HR: 115.66666412353516 | GT: 117.53333333333332
+[INFO] Finished processing p18-v7-source1.avi
+
+[INFO] Processing p18-v7-source2.avi
+[INFO] Saved 987 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v7-source2
+
+ sample number :1 
+
+[INFO] HR: 96.80000305175781 | GT: 118.88235294117646
+[INFO] Finished processing p18-v7-source2.avi
+
+[INFO] Processing p18-v7-source3.avi
+[INFO] Saved 626 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v7-source3
+
+ sample number :1 
+
+[INFO] HR: 114.0 | GT: 117.87096774193547
+[INFO] Finished processing p18-v7-source3.avi
+
+[INFO] Processing p18-v8-source2.avi
+[INFO] Saved 954 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v8-source2
+
+ sample number :1 
+
+[INFO] HR: 64.19999694824219 | GT: 83.78787878787878
+[INFO] Finished processing p18-v8-source2.avi
+
+[INFO] Processing p18-v9-source2.avi
+[INFO] Saved 974 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p18-v9-source2
+
+ sample number :1 
+
+[INFO] HR: 63.599998474121094 | GT: 77.33333333333333
+[INFO] Finished processing p18-v9-source2.avi
+
+[INFO] Processing p19-v1-source1.avi
+[INFO] Saved 822 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p19-v1-source1
+
+ sample number :1 
+
+[INFO] HR: 90.75 | GT: 94.05882352941175
+[INFO] Finished processing p19-v1-source1.avi
+
+[INFO] Processing p19-v1-source2.avi
+[INFO] Saved 1026 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p19-v1-source2
+
+ sample number :1 
+
+[INFO] HR: 77.5999984741211 | GT: 94.08571428571427
+[INFO] Finished processing p19-v1-source2.avi
+
+[INFO] Processing p19-v1-source3.avi
+[INFO] Saved 703 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p19-v1-source3
+
+ sample number :1 
+
+[INFO] HR: 93.0 | GT: 94.05882352941175
+[INFO] Finished processing p19-v1-source3.avi
+
+[INFO] Processing p19-v2-source1.avi
+[INFO] Saved 765 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p19-v2-source1
+
+ sample number :1 
+
+[INFO] HR: 82.25 | GT: 88.61290322580645
+[INFO] Finished processing p19-v2-source1.avi
+
+[INFO] Processing p19-v2-source2.avi
+[INFO] Saved 235 frames to /home/siming/physformer_vipl/Inference_Physformer_VIPL/VIPL_frames/p19-v2-source2
