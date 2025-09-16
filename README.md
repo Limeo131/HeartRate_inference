@@ -1,20 +1,8 @@
 # HeartRate_inference
 
-- Physformer: need to download trained checkpoint 'Physformer_VIPL_fold1.pkl' (https://drive.google.com/file/d/1jBSbM88fA-beaoVi8ILFyL0SvVVMA9c9/view)
-
-- Physformer_vipl: Inference for VIPL run_physformer_vipl_withpre.py
-
-- Physformer_pure: Inference for PURE run_physformer_pure_clip_withpre.py
-
-- Physformer: Inference for Wechat mini_APP run_physformer_withpre.py
-
-
-
-# HeartRate_inference
-
 Remote heart rate (HR) inference from face video with **PhysFormer**. This repo provides ready‑to‑run inference pipelines for two popular datasets (VIPL‑HR and PURE), plus a lightweight script for a WeChat mini‑app scenario.
 
-> If you use the code or ideas here, please also cite the PhysFormer paper (CVPR 2022) listed at the end.
+> If you use the code or ideas here, please cite the PhysFormer paper (CVPR 2022) listed at the end.
 
 ---
 
